@@ -1,26 +1,34 @@
 {
   "supplement": {
     "score": 1,
-    "interval": 4,
+    "interval": 1,
     "times_marked": 1,
-    "times_passed": 2,
+    "times_passed": 0,
     "last_marked": "2026-04-26",
-    "next_review": "2026-04-30"
+    "next_review": "2026-04-27"
   },
-  "preserve": {
-    "score": 1,
-    "interval": 4,
-    "times_marked": 1,
-    "times_passed": 2,
-    "last_marked": "2026-04-26",
-    "next_review": "2026-04-30"
-  },
-  "dwindle": {
+  "condiment": {
     "score": 1,
     "interval": 2,
     "times_marked": 1,
     "times_passed": 1,
     "last_marked": "2026-04-26",
     "next_review": "2026-04-28"
+  },
+  "preserve": {
+    "score": 1,
+    "interval": 1,
+    "times_marked": 1,
+    "times_passed": 0,
+    "last_marked": "2026-04-26",
+    "next_review": "2026-04-27"
+  },
+  "dwindle": {
+    "score": 1,
+    "interval": 4,
+    "times_marked": 1,
+    "times_passed": 2,
+    "last_marked": "2026-04-26",
+    "next_review": "2026-04-30"
   }
 }
