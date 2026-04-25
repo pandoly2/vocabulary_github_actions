@@ -9,18 +9,33 @@ from langgraph.graph import StateGraph, END, START
 from typing import TypedDict
 
 VOCABULARY_PATH = "files/vocabulary.json"
+DIFFICULT_PATH = "files/difficult_words.json"
 WORDS_PER_SESSION = 5
+MAX_REVIEW_INJECT = 2   # 세션당 복습 단어 최대 주입 수
+MAX_INTERVAL = 30
 KST = timezone(timedelta(hours=9))
 
 
+def _load_difficult() -> dict:
+    try:
+        with open(DIFFICULT_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def _save_difficult(data: dict):
+    with open(DIFFICULT_PATH, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
 def pick_words() -> list:
-    """날짜+세션 기반으로 인덱스 계산 - 상태 저장 없이 항상 동일한 단어 보장"""
+    """날짜+세션 기반으로 인덱스 계산 + 복습 단어 주입."""
     with open(VOCABULARY_PATH, "r", encoding="utf-8") as f:
         words = json.load(f)
 
     now = datetime.now(KST)
 
-    # 하루 3세션: 오전 7시=0, 오후 12시=1, 오후 7시=2
     if now.hour < 12:
         session = 0
     elif now.hour < 19:
@@ -28,15 +43,42 @@ def pick_words() -> list:
     else:
         session = 2
 
-    # 2024-01-01 기준 경과 일수
     base = datetime(2024, 1, 1, tzinfo=KST)
     day_number = (now - base).days
-
     total_sessions = day_number * 3 + session
     start_index = (total_sessions * WORDS_PER_SESSION) % len(words)
+    regular = [words[(start_index + i) % len(words)] for i in range(WORDS_PER_SESSION)]
 
-    picked = [words[(start_index + i) % len(words)] for i in range(WORDS_PER_SESSION)]
-    print(f"[{now.strftime('%Y-%m-%d %H:%M KST')}] 세션 {session} | 인덱스 {start_index} | 단어: {picked}")
+    # 복습 단어 주입: next_review <= today인 단어
+    today = now.date().isoformat()
+    difficult = _load_difficult()
+    due = [w for w, d in difficult.items() if d.get("next_review", "9999") <= today][:MAX_REVIEW_INJECT]
+
+    # 복습 단어를 앞에 배치 (regular에서 중복 제거 후 뒤 채움)
+    picked = due + [w for w in regular if w.lower() not in [d.lower() for d in due]]
+    picked = picked[:WORDS_PER_SESSION]
+
+    print(f"[{now.strftime('%Y-%m-%d %H:%M KST')}] 세션 {session} | 정규: {regular} | 복습주입: {due} | 최종: {picked}")
+
+    # 복습 단어 '전송됨' 상태 업데이트 — 통과 처리 (주기 2배)
+    updated = False
+    for w in due:
+        if w in difficult:
+            d = difficult[w]
+            d["times_passed"] = d.get("times_passed", 0) + 1
+            new_interval = d.get("interval", 1) * 2
+            if new_interval > MAX_INTERVAL:
+                del difficult[w]
+                print(f"  [복습] {w} → fade out (주기 {d['interval']}일 초과)")
+            else:
+                d["interval"] = new_interval
+                d["score"] = max(d.get("score", 1) - 1, 1)
+                d["next_review"] = (now + timedelta(days=new_interval)).date().isoformat()
+                print(f"  [복습] {w} → 주기 {new_interval}일 (다음: {d['next_review']})")
+            updated = True
+    if updated:
+        _save_difficult(difficult)
+
     return picked
 
 
