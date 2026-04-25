@@ -1,5 +1,6 @@
 import os
 import json
+import random
 import time
 from datetime import datetime, timezone, timedelta
 
@@ -17,17 +18,13 @@ MAX_INTERVAL = 30
 KST = timezone(timedelta(hours=9))
 
 
-def _load_difficult() -> dict:
+def _load_pinned() -> list:
     try:
         with open(DIFFICULT_PATH, "r", encoding="utf-8") as f:
-            return json.load(f)
+            data = json.load(f)
+            return data if isinstance(data, list) else list(data.keys())
     except Exception:
-        return {}
-
-
-def _save_difficult(data: dict):
-    with open(DIFFICULT_PATH, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+        return []
 
 
 def pick_words() -> list:
@@ -59,41 +56,28 @@ def pick_words() -> list:
     picked = due + [w for w in regular if w.lower() not in [d.lower() for d in due]]
     picked = picked[:WORDS_PER_SESSION]
 
-    print(f"[{now.strftime('%Y-%m-%d %H:%M KST')}] 세션 {session} | 정규: {regular} | 복습주입: {due} | 최종: {picked}")
+    # 핀 단어 중 랜덤으로 1~2개 주입
+    pinned = _load_pinned()
+    inject_count = min(MAX_REVIEW_INJECT, len(pinned))
+    injected = random.sample(pinned, inject_count) if inject_count > 0 else []
+    picked = injected + [w for w in regular if w.lower() not in [p.lower() for p in injected]]
+    picked = picked[:WORDS_PER_SESSION]
+
+    print(f"[{now.strftime('%Y-%m-%d %H:%M KST')}] 세션 {session} | 정규: {regular} | 핀주입: {injected} | 최종: {picked}")
 
     # 전송 기록 저장
     try:
-        log = json.load(open(SENT_LOG_PATH, encoding="utf-8")) if __import__("os").path.exists(SENT_LOG_PATH) else {}
+        log = json.load(open(SENT_LOG_PATH, encoding="utf-8")) if os.path.exists(SENT_LOG_PATH) else {}
         today_key = now.strftime("%Y-%m-%d")
         if today_key not in log:
             log[today_key] = {}
         log[today_key][str(session)] = {"words": picked, "sent_at": now.strftime("%H:%M")}
-        # 최근 7일만 보관
         keys = sorted(log.keys())
         for old_key in keys[:-7]:
             del log[old_key]
         json.dump(log, open(SENT_LOG_PATH, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     except Exception as e:
         print(f"  [sent_log] 기록 실패: {e}")
-
-    # 복습 단어 '전송됨' 상태 업데이트 — 통과 처리 (주기 2배)
-    updated = False
-    for w in due:
-        if w in difficult:
-            d = difficult[w]
-            d["times_passed"] = d.get("times_passed", 0) + 1
-            new_interval = d.get("interval", 1) * 2
-            if new_interval > MAX_INTERVAL:
-                del difficult[w]
-                print(f"  [복습] {w} → fade out (주기 {d['interval']}일 초과)")
-            else:
-                d["interval"] = new_interval
-                d["score"] = max(d.get("score", 1) - 1, 1)
-                d["next_review"] = (now + timedelta(days=new_interval)).date().isoformat()
-                print(f"  [복습] {w} → 주기 {new_interval}일 (다음: {d['next_review']})")
-            updated = True
-    if updated:
-        _save_difficult(difficult)
 
     return picked
 
