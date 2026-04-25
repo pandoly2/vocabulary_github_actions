@@ -10,8 +10,9 @@ from typing import TypedDict
 
 VOCABULARY_PATH = "files/vocabulary.json"
 DIFFICULT_PATH = "files/difficult_words.json"
+SENT_LOG_PATH = "files/sent_log.json"
 WORDS_PER_SESSION = 5
-MAX_REVIEW_INJECT = 2   # 세션당 복습 단어 최대 주입 수
+MAX_REVIEW_INJECT = 2
 MAX_INTERVAL = 30
 KST = timezone(timedelta(hours=9))
 
@@ -59,6 +60,21 @@ def pick_words() -> list:
     picked = picked[:WORDS_PER_SESSION]
 
     print(f"[{now.strftime('%Y-%m-%d %H:%M KST')}] 세션 {session} | 정규: {regular} | 복습주입: {due} | 최종: {picked}")
+
+    # 전송 기록 저장
+    try:
+        log = json.load(open(SENT_LOG_PATH, encoding="utf-8")) if __import__("os").path.exists(SENT_LOG_PATH) else {}
+        today_key = now.strftime("%Y-%m-%d")
+        if today_key not in log:
+            log[today_key] = {}
+        log[today_key][str(session)] = {"words": picked, "sent_at": now.strftime("%H:%M")}
+        # 최근 7일만 보관
+        keys = sorted(log.keys())
+        for old_key in keys[:-7]:
+            del log[old_key]
+        json.dump(log, open(SENT_LOG_PATH, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+    except Exception as e:
+        print(f"  [sent_log] 기록 실패: {e}")
 
     # 복습 단어 '전송됨' 상태 업데이트 — 통과 처리 (주기 2배)
     updated = False
