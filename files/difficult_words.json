@@ -1,10 +1,26 @@
 {
-  "condiment": {
+  "supplement": {
     "score": 1,
-    "interval": 1,
+    "interval": 4,
     "times_marked": 1,
-    "times_passed": 0,
+    "times_passed": 2,
     "last_marked": "2026-04-26",
-    "next_review": "2026-04-27"
+    "next_review": "2026-04-30"
+  },
+  "preserve": {
+    "score": 1,
+    "interval": 4,
+    "times_marked": 1,
+    "times_passed": 2,
+    "last_marked": "2026-04-26",
+    "next_review": "2026-04-30"
+  },
+  "dwindle": {
+    "score": 1,
+    "interval": 2,
+    "times_marked": 1,
+    "times_passed": 1,
+    "last_marked": "2026-04-26",
+    "next_review": "2026-04-28"
   }
 }
