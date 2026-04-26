@@ -47,15 +47,6 @@ def pick_words() -> list:
     start_index = (total_sessions * WORDS_PER_SESSION) % len(words)
     regular = [words[(start_index + i) % len(words)] for i in range(WORDS_PER_SESSION)]
 
-    # 복습 단어 주입: next_review <= today인 단어
-    today = now.date().isoformat()
-    difficult = _load_difficult()
-    due = [w for w, d in difficult.items() if d.get("next_review", "9999") <= today][:MAX_REVIEW_INJECT]
-
-    # 복습 단어를 앞에 배치 (regular에서 중복 제거 후 뒤 채움)
-    picked = due + [w for w in regular if w.lower() not in [d.lower() for d in due]]
-    picked = picked[:WORDS_PER_SESSION]
-
     # 핀 단어 중 랜덤으로 1~2개 주입
     pinned = _load_pinned()
     inject_count = min(MAX_REVIEW_INJECT, len(pinned))
