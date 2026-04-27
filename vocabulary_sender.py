@@ -47,10 +47,11 @@ def pick_words() -> list:
     start_index = (total_sessions * WORDS_PER_SESSION) % len(words)
     regular = [words[(start_index + i) % len(words)] for i in range(WORDS_PER_SESSION)]
 
-    # 핀 단어 중 랜덤으로 1~2개 주입
+    # 핀 단어 중 랜덤으로 1~2개 주입 (날짜+세션 기반 고정 시드 → 웹 표시와 동일)
     pinned = _load_pinned()
     inject_count = min(MAX_REVIEW_INJECT, len(pinned))
-    injected = random.sample(pinned, inject_count) if inject_count > 0 else []
+    rng = random.Random(total_sessions)
+    injected = rng.sample(pinned, inject_count) if inject_count > 0 else []
     picked = injected + [w for w in regular if w.lower() not in [p.lower() for p in injected]]
     picked = picked[:WORDS_PER_SESSION]
 
@@ -129,7 +130,17 @@ def ask_groq(picked: list) -> str:
     app = graph.compile()
 
     result = app.invoke({"words": picked, "result": ""})
-    return result["result"]
+    text = result["result"]
+
+    # 한자/일본어 등 비한글 외국 문자 제거 (뜻/해석 필드 보호)
+    import re
+    # CJK 통합 한자 범위 제거 (한국어 한자 포함 모든 CJK 문자)
+    text = re.sub(r'[一-鿿㐀-䶿豈-﫿　-〿]', '', text)
+    # 연속 공백 정리
+    text = re.sub(r' {2,}', ' ', text)
+    text = re.sub(r'\n{3,}', '\n\n', text)
+
+    return text
 
 
 def send_telegram(result: str):
