@@ -1,36 +1,4 @@
 {
-  "2026-04-28": {
-    "0": {
-      "words": [
-        "indigenous",
-        "rigid",
-        "inflammation",
-        "punctuality",
-        "despite"
-      ],
-      "sent_at": "07:54"
-    },
-    "1": {
-      "words": [
-        "rigid",
-        "indigenous",
-        "vitality",
-        "rampant",
-        "humid"
-      ],
-      "sent_at": "15:07"
-    },
-    "2": {
-      "words": [
-        "immobile",
-        "condiment",
-        "massive",
-        "plunge",
-        "unify"
-      ],
-      "sent_at": "20:42"
-    }
-  },
   "2026-04-29": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "convolutional"
       ],
       "sent_at": "20:44"
+    }
+  },
+  "2026-05-05": {
+    "0": {
+      "words": [
+        "rampant",
+        "delicacy",
+        "deputy",
+        "minister",
+        "discriminatory"
+      ],
+      "sent_at": "07:57"
     }
   }
 }
