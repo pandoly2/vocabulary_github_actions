@@ -211,6 +211,16 @@
         "redundancy"
       ],
       "sent_at": "15:13"
+    },
+    "2": {
+      "words": [
+        "empirical",
+        "rampant",
+        "density",
+        "discriminative",
+        "convolutional"
+      ],
+      "sent_at": "20:44"
     }
   }
 }
