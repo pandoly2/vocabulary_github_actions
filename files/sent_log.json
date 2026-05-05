@@ -1,36 +1,4 @@
 {
-  "2026-04-29": {
-    "0": {
-      "words": [
-        "immobile",
-        "rampant",
-        "get used to",
-        "consequence",
-        "confuse"
-      ],
-      "sent_at": "07:57"
-    },
-    "1": {
-      "words": [
-        "immobile",
-        "condiment",
-        "contraction",
-        "stomach",
-        "significance"
-      ],
-      "sent_at": "14:54"
-    },
-    "2": {
-      "words": [
-        "rampant",
-        "dwindle",
-        "adorable",
-        "intestine",
-        "weird"
-      ],
-      "sent_at": "20:25"
-    }
-  },
   "2026-04-30": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "persecute"
       ],
       "sent_at": "20:13"
+    }
+  },
+  "2026-05-06": {
+    "0": {
+      "words": [
+        "adhere",
+        "apparently",
+        "provision",
+        "institution",
+        "morale"
+      ],
+      "sent_at": "07:57"
     }
   }
 }
