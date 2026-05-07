@@ -1,36 +1,4 @@
 {
-  "2026-05-01": {
-    "0": {
-      "words": [
-        "dwindle",
-        "rampant",
-        "abnormal",
-        "reserve",
-        "judgement"
-      ],
-      "sent_at": "07:54"
-    },
-    "1": {
-      "words": [
-        "vitality",
-        "condiment",
-        "thick",
-        "behave",
-        "commitment"
-      ],
-      "sent_at": "15:16"
-    },
-    "2": {
-      "words": [
-        "vitality",
-        "condiment",
-        "justify",
-        "composer",
-        "indicate"
-      ],
-      "sent_at": "20:03"
-    }
-  },
   "2026-05-02": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "cinephile"
       ],
       "sent_at": "20:43"
+    }
+  },
+  "2026-05-08": {
+    "0": {
+      "words": [
+        "rampant",
+        "encounter",
+        "tactful",
+        "assertive",
+        "apprehensive"
+      ],
+      "sent_at": "08:01"
     }
   }
 }
