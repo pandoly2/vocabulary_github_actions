@@ -1,36 +1,4 @@
 {
-  "2026-05-03": {
-    "0": {
-      "words": [
-        "suspension",
-        "delicacy",
-        "frustrate",
-        "resilient",
-        "ambitious"
-      ],
-      "sent_at": "07:44"
-    },
-    "1": {
-      "words": [
-        "apparently",
-        "delicacy",
-        "linger",
-        "dread",
-        "restrictive"
-      ],
-      "sent_at": "15:05"
-    },
-    "2": {
-      "words": [
-        "encounter",
-        "empirical",
-        "presence",
-        "meander",
-        "frolic"
-      ],
-      "sent_at": "19:50"
-    }
-  },
   "2026-05-04": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "excrete"
       ],
       "sent_at": "19:53"
+    }
+  },
+  "2026-05-10": {
+    "0": {
+      "words": [
+        "rampant",
+        "encounter",
+        "substance",
+        "insect",
+        "fart"
+      ],
+      "sent_at": "07:49"
     }
   }
 }
