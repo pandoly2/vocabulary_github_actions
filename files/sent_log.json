@@ -1,36 +1,4 @@
 {
-  "2026-05-04": {
-    "0": {
-      "words": [
-        "delicacy",
-        "suspension",
-        "synthesis",
-        "abuse",
-        "fatigue"
-      ],
-      "sent_at": "07:44"
-    },
-    "1": {
-      "words": [
-        "adhere",
-        "suspension",
-        "mumble",
-        "precision",
-        "redundancy"
-      ],
-      "sent_at": "15:13"
-    },
-    "2": {
-      "words": [
-        "empirical",
-        "rampant",
-        "density",
-        "discriminative",
-        "convolutional"
-      ],
-      "sent_at": "20:44"
-    }
-  },
   "2026-05-05": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "council"
       ],
       "sent_at": "19:57"
+    }
+  },
+  "2026-05-11": {
+    "0": {
+      "words": [
+        "empirical",
+        "delicacy",
+        "conserve",
+        "decline",
+        "smelt"
+      ],
+      "sent_at": "07:51"
     }
   }
 }
