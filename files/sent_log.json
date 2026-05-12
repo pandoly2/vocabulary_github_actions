@@ -1,36 +1,4 @@
 {
-  "2026-05-06": {
-    "0": {
-      "words": [
-        "adhere",
-        "apparently",
-        "provision",
-        "institution",
-        "morale"
-      ],
-      "sent_at": "07:57"
-    },
-    "1": {
-      "words": [
-        "adhere",
-        "delicacy",
-        "destigmatize",
-        "household",
-        "perceive"
-      ],
-      "sent_at": "14:57"
-    },
-    "2": {
-      "words": [
-        "suspension",
-        "rampant",
-        "practice",
-        "consciousness",
-        "diplomacy"
-      ],
-      "sent_at": "20:45"
-    }
-  },
   "2026-05-07": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "wise"
       ],
       "sent_at": "20:50"
+    }
+  },
+  "2026-05-13": {
+    "0": {
+      "words": [
+        "rampant",
+        "adhere",
+        "robber",
+        "thief",
+        "burglar"
+      ],
+      "sent_at": "08:04"
     }
   }
 }
