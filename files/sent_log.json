@@ -1,36 +1,4 @@
 {
-  "2026-05-07": {
-    "0": {
-      "words": [
-        "encounter",
-        "delicacy",
-        "stereotype",
-        "stubborn",
-        "empowerment"
-      ],
-      "sent_at": "07:54"
-    },
-    "1": {
-      "words": [
-        "rampant",
-        "apparently",
-        "sole",
-        "afford to",
-        "entitle"
-      ],
-      "sent_at": "15:10"
-    },
-    "2": {
-      "words": [
-        "rampant",
-        "encounter",
-        "threaten",
-        "tariff",
-        "cinephile"
-      ],
-      "sent_at": "20:43"
-    }
-  },
   "2026-05-08": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "overcome"
       ],
       "sent_at": "21:00"
+    }
+  },
+  "2026-05-14": {
+    "0": {
+      "words": [
+        "adhere",
+        "delicacy",
+        "abbreviation",
+        "oblige",
+        "loom"
+      ],
+      "sent_at": "08:06"
     }
   }
 }
