@@ -211,6 +211,16 @@
         "sentimental"
       ],
       "sent_at": "15:26"
+    },
+    "2": {
+      "words": [
+        "delicacy",
+        "empirical",
+        "perspective",
+        "deduce",
+        "overcome"
+      ],
+      "sent_at": "21:00"
     }
   }
 }
