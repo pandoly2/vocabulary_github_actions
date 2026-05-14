@@ -1,36 +1,4 @@
 {
-  "2026-05-08": {
-    "0": {
-      "words": [
-        "rampant",
-        "encounter",
-        "tactful",
-        "assertive",
-        "apprehensive"
-      ],
-      "sent_at": "08:01"
-    },
-    "1": {
-      "words": [
-        "delicacy",
-        "rampant",
-        "frustrated",
-        "corruption",
-        "cease"
-      ],
-      "sent_at": "14:30"
-    },
-    "2": {
-      "words": [
-        "suspension",
-        "empirical",
-        "concentrate",
-        "imply",
-        "affectionate"
-      ],
-      "sent_at": "20:08"
-    }
-  },
   "2026-05-09": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "expose"
       ],
       "sent_at": "20:48"
+    }
+  },
+  "2026-05-15": {
+    "0": {
+      "words": [
+        "suspension",
+        "encounter",
+        "complicated",
+        "hasty",
+        "answerable"
+      ],
+      "sent_at": "07:58"
     }
   }
 }
