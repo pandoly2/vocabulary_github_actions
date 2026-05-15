@@ -1,36 +1,4 @@
 {
-  "2026-05-09": {
-    "0": {
-      "words": [
-        "adhere",
-        "delicacy",
-        "discretion",
-        "upcoming",
-        "assign"
-      ],
-      "sent_at": "07:56"
-    },
-    "1": {
-      "words": [
-        "apparently",
-        "encounter",
-        "martial law",
-        "desirable",
-        "alternative"
-      ],
-      "sent_at": "14:48"
-    },
-    "2": {
-      "words": [
-        "suspension",
-        "empirical",
-        "acquisition",
-        "subtle",
-        "excrete"
-      ],
-      "sent_at": "19:53"
-    }
-  },
   "2026-05-10": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "stimulate"
       ],
       "sent_at": "20:51"
+    }
+  },
+  "2026-05-16": {
+    "0": {
+      "words": [
+        "suspension",
+        "empirical",
+        "fascinate",
+        "weary",
+        "gerund"
+      ],
+      "sent_at": "07:56"
     }
   }
 }
