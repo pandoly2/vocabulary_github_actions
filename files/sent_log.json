@@ -1,36 +1,4 @@
 {
-  "2026-05-10": {
-    "0": {
-      "words": [
-        "rampant",
-        "encounter",
-        "substance",
-        "insect",
-        "fart"
-      ],
-      "sent_at": "07:49"
-    },
-    "1": {
-      "words": [
-        "encounter",
-        "delicacy",
-        "expenditure",
-        "continent",
-        "exhibition"
-      ],
-      "sent_at": "15:12"
-    },
-    "2": {
-      "words": [
-        "empirical",
-        "suspension",
-        "immense",
-        "inadequate",
-        "council"
-      ],
-      "sent_at": "19:57"
-    }
-  },
   "2026-05-11": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "accustom"
       ],
       "sent_at": "19:59"
+    }
+  },
+  "2026-05-17": {
+    "0": {
+      "words": [
+        "empirical",
+        "suspension",
+        "pleasant",
+        "unpleasant",
+        "misfortune"
+      ],
+      "sent_at": "07:49"
     }
   }
 }
