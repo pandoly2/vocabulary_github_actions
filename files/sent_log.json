@@ -1,36 +1,4 @@
 {
-  "2026-05-11": {
-    "0": {
-      "words": [
-        "empirical",
-        "delicacy",
-        "conserve",
-        "decline",
-        "smelt"
-      ],
-      "sent_at": "07:51"
-    },
-    "1": {
-      "words": [
-        "delicacy",
-        "apparently",
-        "cargo",
-        "navigable",
-        "machinery"
-      ],
-      "sent_at": "15:39"
-    },
-    "2": {
-      "words": [
-        "rampant",
-        "empirical",
-        "barrier",
-        "obstacle",
-        "resistance"
-      ],
-      "sent_at": "21:36"
-    }
-  },
   "2026-05-12": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "contrast"
       ],
       "sent_at": "20:00"
+    }
+  },
+  "2026-05-18": {
+    "0": {
+      "words": [
+        "rampant",
+        "delicacy",
+        "outward",
+        "comply",
+        "resist"
+      ],
+      "sent_at": "07:54"
     }
   }
 }
