@@ -1,36 +1,4 @@
 {
-  "2026-05-12": {
-    "0": {
-      "words": [
-        "delicacy",
-        "apparently",
-        "typically",
-        "enthusiastically",
-        "willing"
-      ],
-      "sent_at": "07:56"
-    },
-    "1": {
-      "words": [
-        "delicacy",
-        "apparently",
-        "distract",
-        "squirrel",
-        "dangle"
-      ],
-      "sent_at": "15:15"
-    },
-    "2": {
-      "words": [
-        "adhere",
-        "encounter",
-        "perimeter",
-        "dowry",
-        "wise"
-      ],
-      "sent_at": "20:50"
-    }
-  },
   "2026-05-13": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "nasty"
       ],
       "sent_at": "22:41"
+    }
+  },
+  "2026-05-19": {
+    "0": {
+      "words": [
+        "encounter",
+        "suspension",
+        "fluctuate",
+        "possess",
+        "appearance"
+      ],
+      "sent_at": "08:03"
     }
   }
 }
