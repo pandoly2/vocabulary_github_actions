@@ -1,36 +1,4 @@
 {
-  "2026-05-13": {
-    "0": {
-      "words": [
-        "rampant",
-        "adhere",
-        "robber",
-        "thief",
-        "burglar"
-      ],
-      "sent_at": "08:04"
-    },
-    "1": {
-      "words": [
-        "suspension",
-        "rampant",
-        "protest",
-        "reputation",
-        "sentimental"
-      ],
-      "sent_at": "15:26"
-    },
-    "2": {
-      "words": [
-        "delicacy",
-        "empirical",
-        "perspective",
-        "deduce",
-        "overcome"
-      ],
-      "sent_at": "21:00"
-    }
-  },
   "2026-05-14": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "antiseptic"
       ],
       "sent_at": "21:36"
+    }
+  },
+  "2026-05-20": {
+    "0": {
+      "words": [
+        "empirical",
+        "apparently",
+        "wrist",
+        "strain",
+        "sprain"
+      ],
+      "sent_at": "08:03"
     }
   }
 }
