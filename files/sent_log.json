@@ -1,36 +1,4 @@
 {
-  "2026-05-14": {
-    "0": {
-      "words": [
-        "adhere",
-        "delicacy",
-        "abbreviation",
-        "oblige",
-        "loom"
-      ],
-      "sent_at": "08:06"
-    },
-    "1": {
-      "words": [
-        "apparently",
-        "rampant",
-        "constant",
-        "vigorous",
-        "strenuous"
-      ],
-      "sent_at": "15:24"
-    },
-    "2": {
-      "words": [
-        "delicacy",
-        "adhere",
-        "instruction",
-        "exposition",
-        "expose"
-      ],
-      "sent_at": "20:48"
-    }
-  },
   "2026-05-15": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "applicant"
       ],
       "sent_at": "21:18"
+    }
+  },
+  "2026-05-21": {
+    "0": {
+      "words": [
+        "delicacy",
+        "apparently",
+        "pursue",
+        "grovel",
+        "clever"
+      ],
+      "sent_at": "08:14"
     }
   }
 }
