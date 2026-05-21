@@ -1,36 +1,4 @@
 {
-  "2026-05-15": {
-    "0": {
-      "words": [
-        "suspension",
-        "encounter",
-        "complicated",
-        "hasty",
-        "answerable"
-      ],
-      "sent_at": "07:58"
-    },
-    "1": {
-      "words": [
-        "empirical",
-        "encounter",
-        "rouse",
-        "sorrow",
-        "distinct"
-      ],
-      "sent_at": "15:33"
-    },
-    "2": {
-      "words": [
-        "adhere",
-        "rampant",
-        "crave",
-        "appetite",
-        "stimulate"
-      ],
-      "sent_at": "20:51"
-    }
-  },
   "2026-05-16": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "primitive"
       ],
       "sent_at": "21:41"
+    }
+  },
+  "2026-05-22": {
+    "0": {
+      "words": [
+        "apparently",
+        "suspension",
+        "exploratory",
+        "reveal",
+        "essential"
+      ],
+      "sent_at": "08:04"
     }
   }
 }
