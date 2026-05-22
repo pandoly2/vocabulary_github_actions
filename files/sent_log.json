@@ -1,36 +1,4 @@
 {
-  "2026-05-16": {
-    "0": {
-      "words": [
-        "suspension",
-        "empirical",
-        "fascinate",
-        "weary",
-        "gerund"
-      ],
-      "sent_at": "07:56"
-    },
-    "1": {
-      "words": [
-        "adhere",
-        "rampant",
-        "setback",
-        "dedication",
-        "rubber"
-      ],
-      "sent_at": "14:54"
-    },
-    "2": {
-      "words": [
-        "adhere",
-        "apparently",
-        "imperative",
-        "reduction",
-        "accustom"
-      ],
-      "sent_at": "19:59"
-    }
-  },
   "2026-05-17": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "sufficient"
       ],
       "sent_at": "21:14"
+    }
+  },
+  "2026-05-23": {
+    "0": {
+      "words": [
+        "adhere",
+        "apparently",
+        "immature",
+        "deterministic",
+        "adjacent"
+      ],
+      "sent_at": "08:01"
     }
   }
 }
