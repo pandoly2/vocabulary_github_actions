@@ -201,6 +201,16 @@
         "adjacent"
       ],
       "sent_at": "08:01"
+    },
+    "1": {
+      "words": [
+        "suspension",
+        "empirical",
+        "implicit",
+        "explicit",
+        "suitable"
+      ],
+      "sent_at": "15:12"
     }
   }
 }
