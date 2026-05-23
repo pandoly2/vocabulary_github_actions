@@ -1,36 +1,4 @@
 {
-  "2026-05-17": {
-    "0": {
-      "words": [
-        "empirical",
-        "suspension",
-        "pleasant",
-        "unpleasant",
-        "misfortune"
-      ],
-      "sent_at": "07:49"
-    },
-    "1": {
-      "words": [
-        "rampant",
-        "suspension",
-        "convince",
-        "prominence",
-        "repetition"
-      ],
-      "sent_at": "15:23"
-    },
-    "2": {
-      "words": [
-        "empirical",
-        "delicacy",
-        "enthusiastic",
-        "affliction",
-        "contrast"
-      ],
-      "sent_at": "20:00"
-    }
-  },
   "2026-05-18": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "impair"
       ],
       "sent_at": "20:06"
+    }
+  },
+  "2026-05-24": {
+    "0": {
+      "words": [
+        "delicacy",
+        "empirical",
+        "alternatively",
+        "acquire",
+        "accomplished"
+      ],
+      "sent_at": "07:54"
     }
   }
 }
