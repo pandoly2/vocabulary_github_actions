@@ -1,36 +1,4 @@
 {
-  "2026-05-18": {
-    "0": {
-      "words": [
-        "rampant",
-        "delicacy",
-        "outward",
-        "comply",
-        "resist"
-      ],
-      "sent_at": "07:54"
-    },
-    "1": {
-      "words": [
-        "adhere",
-        "rampant",
-        "decay",
-        "admire",
-        "trait"
-      ],
-      "sent_at": "15:56"
-    },
-    "2": {
-      "words": [
-        "apparently",
-        "suspension",
-        "compose",
-        "trivia",
-        "nasty"
-      ],
-      "sent_at": "22:41"
-    }
-  },
   "2026-05-19": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "invention"
       ],
       "sent_at": "20:12"
+    }
+  },
+  "2026-05-25": {
+    "0": {
+      "words": [
+        "rampant",
+        "encounter",
+        "supplement",
+        "condiment",
+        "preserve"
+      ],
+      "sent_at": "07:58"
     }
   }
 }
