@@ -1,36 +1,4 @@
 {
-  "2026-05-19": {
-    "0": {
-      "words": [
-        "encounter",
-        "suspension",
-        "fluctuate",
-        "possess",
-        "appearance"
-      ],
-      "sent_at": "08:03"
-    },
-    "1": {
-      "words": [
-        "empirical",
-        "suspension",
-        "accuser",
-        "oppose",
-        "auxiliary"
-      ],
-      "sent_at": "15:48"
-    },
-    "2": {
-      "words": [
-        "rampant",
-        "apparently",
-        "apparent",
-        "curious",
-        "antiseptic"
-      ],
-      "sent_at": "21:36"
-    }
-  },
   "2026-05-20": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "assignment"
       ],
       "sent_at": "21:57"
+    }
+  },
+  "2026-05-26": {
+    "0": {
+      "words": [
+        "delicacy",
+        "suspension",
+        "constraint",
+        "concrete",
+        "substitute"
+      ],
+      "sent_at": "08:04"
     }
   }
 }
