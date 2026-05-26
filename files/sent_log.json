@@ -1,36 +1,4 @@
 {
-  "2026-05-20": {
-    "0": {
-      "words": [
-        "empirical",
-        "apparently",
-        "wrist",
-        "strain",
-        "sprain"
-      ],
-      "sent_at": "08:03"
-    },
-    "1": {
-      "words": [
-        "apparently",
-        "delicacy",
-        "extrovert",
-        "democratic",
-        "federal"
-      ],
-      "sent_at": "15:48"
-    },
-    "2": {
-      "words": [
-        "encounter",
-        "suspension",
-        "dare",
-        "explosion",
-        "applicant"
-      ],
-      "sent_at": "21:18"
-    }
-  },
   "2026-05-21": {
     "0": {
       "words": [
@@ -211,6 +179,18 @@
         "province"
       ],
       "sent_at": "15:46"
+    }
+  },
+  "2026-05-27": {
+    "0": {
+      "words": [
+        "suspension",
+        "delicacy",
+        "polymorphism",
+        "emphasis",
+        "relevant"
+      ],
+      "sent_at": "08:11"
     }
   }
 }
