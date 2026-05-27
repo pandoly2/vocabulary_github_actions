@@ -1,36 +1,4 @@
 {
-  "2026-05-21": {
-    "0": {
-      "words": [
-        "delicacy",
-        "apparently",
-        "pursue",
-        "grovel",
-        "clever"
-      ],
-      "sent_at": "08:14"
-    },
-    "1": {
-      "words": [
-        "encounter",
-        "apparently",
-        "enhance",
-        "enhancement",
-        "comprehensive"
-      ],
-      "sent_at": "15:53"
-    },
-    "2": {
-      "words": [
-        "adhere",
-        "delicacy",
-        "rot",
-        "premature",
-        "primitive"
-      ],
-      "sent_at": "21:41"
-    }
-  },
   "2026-05-22": {
     "0": {
       "words": [
@@ -211,6 +179,18 @@
         "rampant"
       ],
       "sent_at": "21:52"
+    }
+  },
+  "2026-05-28": {
+    "0": {
+      "words": [
+        "empirical",
+        "adhere",
+        "punctual",
+        "massive",
+        "plunge"
+      ],
+      "sent_at": "08:18"
     }
   }
 }
