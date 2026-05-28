@@ -1,36 +1,4 @@
 {
-  "2026-05-22": {
-    "0": {
-      "words": [
-        "apparently",
-        "suspension",
-        "exploratory",
-        "reveal",
-        "essential"
-      ],
-      "sent_at": "08:04"
-    },
-    "1": {
-      "words": [
-        "empirical",
-        "rampant",
-        "embrace",
-        "invasion",
-        "polite"
-      ],
-      "sent_at": "15:49"
-    },
-    "2": {
-      "words": [
-        "suspension",
-        "apparently",
-        "diagnosis",
-        "assumption",
-        "sufficient"
-      ],
-      "sent_at": "21:14"
-    }
-  },
   "2026-05-23": {
     "0": {
       "words": [
@@ -211,6 +179,18 @@
         "stomach"
       ],
       "sent_at": "22:43"
+    }
+  },
+  "2026-05-29": {
+    "0": {
+      "words": [
+        "delicacy",
+        "adhere",
+        "obvious",
+        "adorable",
+        "intestine"
+      ],
+      "sent_at": "08:18"
     }
   }
 }
