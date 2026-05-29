@@ -1,36 +1,4 @@
 {
-  "2026-05-23": {
-    "0": {
-      "words": [
-        "adhere",
-        "apparently",
-        "immature",
-        "deterministic",
-        "adjacent"
-      ],
-      "sent_at": "08:01"
-    },
-    "1": {
-      "words": [
-        "suspension",
-        "empirical",
-        "implicit",
-        "explicit",
-        "suitable"
-      ],
-      "sent_at": "15:12"
-    },
-    "2": {
-      "words": [
-        "apparently",
-        "delicacy",
-        "rigor",
-        "impractical",
-        "impair"
-      ],
-      "sent_at": "20:06"
-    }
-  },
   "2026-05-24": {
     "0": {
       "words": [
@@ -211,6 +179,18 @@
         "comfortable"
       ],
       "sent_at": "21:45"
+    }
+  },
+  "2026-05-30": {
+    "0": {
+      "words": [
+        "empirical",
+        "apparently",
+        "feigned",
+        "occupation",
+        "preoccupation"
+      ],
+      "sent_at": "08:14"
     }
   }
 }
