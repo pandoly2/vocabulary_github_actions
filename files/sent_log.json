@@ -1,36 +1,4 @@
 {
-  "2026-05-24": {
-    "0": {
-      "words": [
-        "delicacy",
-        "empirical",
-        "alternatively",
-        "acquire",
-        "accomplished"
-      ],
-      "sent_at": "07:54"
-    },
-    "1": {
-      "words": [
-        "empirical",
-        "rampant",
-        "refinement",
-        "patient",
-        "treatment"
-      ],
-      "sent_at": "15:37"
-    },
-    "2": {
-      "words": [
-        "empirical",
-        "rampant",
-        "tactics",
-        "efficient",
-        "invention"
-      ],
-      "sent_at": "20:12"
-    }
-  },
   "2026-05-25": {
     "0": {
       "words": [
@@ -211,6 +179,18 @@
         "behave"
       ],
       "sent_at": "20:17"
+    }
+  },
+  "2026-05-31": {
+    "0": {
+      "words": [
+        "encounter",
+        "rampant",
+        "mull",
+        "justify",
+        "composer"
+      ],
+      "sent_at": "07:58"
     }
   }
 }
