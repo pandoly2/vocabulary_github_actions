@@ -1,36 +1,4 @@
 {
-  "2026-05-25": {
-    "0": {
-      "words": [
-        "rampant",
-        "encounter",
-        "supplement",
-        "condiment",
-        "preserve"
-      ],
-      "sent_at": "07:58"
-    },
-    "1": {
-      "words": [
-        "empirical",
-        "suspension",
-        "ancestor",
-        "belong",
-        "iconic"
-      ],
-      "sent_at": "16:14"
-    },
-    "2": {
-      "words": [
-        "suspension",
-        "apparently",
-        "indirection",
-        "facade",
-        "assignment"
-      ],
-      "sent_at": "21:57"
-    }
-  },
   "2026-05-26": {
     "0": {
       "words": [
@@ -211,6 +179,18 @@
         "empirical"
       ],
       "sent_at": "20:39"
+    }
+  },
+  "2026-06-01": {
+    "0": {
+      "words": [
+        "rampant",
+        "adhere",
+        "explode",
+        "incredible",
+        "arrogant"
+      ],
+      "sent_at": "08:01"
     }
   }
 }
