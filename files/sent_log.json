@@ -1,26 +1,4 @@
 {
-  "2026-05-26": {
-    "0": {
-      "words": [
-        "delicacy",
-        "suspension",
-        "constraint",
-        "concrete",
-        "substitute"
-      ],
-      "sent_at": "08:04"
-    },
-    "1": {
-      "words": [
-        "apparently",
-        "adhere",
-        "rigid",
-        "likelihood",
-        "province"
-      ],
-      "sent_at": "15:46"
-    }
-  },
   "2026-05-27": {
     "0": {
       "words": [
@@ -201,6 +179,18 @@
         "resilient"
       ],
       "sent_at": "17:34"
+    }
+  },
+  "2026-06-02": {
+    "0": {
+      "words": [
+        "encounter",
+        "delicacy",
+        "augment",
+        "presence",
+        "meander"
+      ],
+      "sent_at": "00:51"
     }
   }
 }
