@@ -1,36 +1,4 @@
 {
-  "2026-05-27": {
-    "0": {
-      "words": [
-        "suspension",
-        "delicacy",
-        "polymorphism",
-        "emphasis",
-        "relevant"
-      ],
-      "sent_at": "08:11"
-    },
-    "1": {
-      "words": [
-        "encounter",
-        "suspension",
-        "diabetes",
-        "inflammation",
-        "punctuality"
-      ],
-      "sent_at": "16:03"
-    },
-    "2": {
-      "words": [
-        "adhere",
-        "delicacy",
-        "scorching",
-        "vitality",
-        "rampant"
-      ],
-      "sent_at": "21:52"
-    }
-  },
   "2026-05-28": {
     "0": {
       "words": [
@@ -211,6 +179,18 @@
         "precision"
       ],
       "sent_at": "22:57"
+    }
+  },
+  "2026-06-03": {
+    "0": {
+      "words": [
+        "rampant",
+        "apparently",
+        "correspond",
+        "density",
+        "discriminative"
+      ],
+      "sent_at": "08:47"
     }
   }
 }
