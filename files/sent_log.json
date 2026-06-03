@@ -1,36 +1,4 @@
 {
-  "2026-05-28": {
-    "0": {
-      "words": [
-        "empirical",
-        "adhere",
-        "punctual",
-        "massive",
-        "plunge"
-      ],
-      "sent_at": "08:18"
-    },
-    "1": {
-      "words": [
-        "suspension",
-        "encounter",
-        "preposition",
-        "get used to",
-        "consequence"
-      ],
-      "sent_at": "15:54"
-    },
-    "2": {
-      "words": [
-        "adhere",
-        "apparently",
-        "controversial",
-        "contraction",
-        "stomach"
-      ],
-      "sent_at": "22:43"
-    }
-  },
   "2026-05-29": {
     "0": {
       "words": [
@@ -211,6 +179,18 @@
         "pioneer"
       ],
       "sent_at": "23:24"
+    }
+  },
+  "2026-06-04": {
+    "0": {
+      "words": [
+        "encounter",
+        "delicacy",
+        "possessive",
+        "intuitive",
+        "refugee"
+      ],
+      "sent_at": "08:45"
     }
   }
 }
