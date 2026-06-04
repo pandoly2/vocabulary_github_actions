@@ -1,36 +1,4 @@
 {
-  "2026-05-29": {
-    "0": {
-      "words": [
-        "delicacy",
-        "adhere",
-        "obvious",
-        "adorable",
-        "intestine"
-      ],
-      "sent_at": "08:18"
-    },
-    "1": {
-      "words": [
-        "adhere",
-        "suspension",
-        "totally",
-        "naked",
-        "brave"
-      ],
-      "sent_at": "15:54"
-    },
-    "2": {
-      "words": [
-        "adhere",
-        "delicacy",
-        "embarrass",
-        "impromptu",
-        "comfortable"
-      ],
-      "sent_at": "21:45"
-    }
-  },
   "2026-05-30": {
     "0": {
       "words": [
@@ -211,6 +179,18 @@
         "household"
       ],
       "sent_at": "21:41"
+    }
+  },
+  "2026-06-05": {
+    "0": {
+      "words": [
+        "rampant",
+        "apparently",
+        "disturbing",
+        "practice",
+        "consciousness"
+      ],
+      "sent_at": "08:10"
     }
   }
 }
