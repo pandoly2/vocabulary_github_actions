@@ -1,36 +1,4 @@
 {
-  "2026-05-30": {
-    "0": {
-      "words": [
-        "empirical",
-        "apparently",
-        "feigned",
-        "occupation",
-        "preoccupation"
-      ],
-      "sent_at": "08:14"
-    },
-    "1": {
-      "words": [
-        "empirical",
-        "encounter",
-        "unjustly",
-        "abnormal",
-        "reserve"
-      ],
-      "sent_at": "15:23"
-    },
-    "2": {
-      "words": [
-        "adhere",
-        "empirical",
-        "vulnerable",
-        "thick",
-        "behave"
-      ],
-      "sent_at": "20:17"
-    }
-  },
   "2026-05-31": {
     "0": {
       "words": [
@@ -211,6 +179,18 @@
         "afford to"
       ],
       "sent_at": "21:33"
+    }
+  },
+  "2026-06-06": {
+    "0": {
+      "words": [
+        "delicacy",
+        "encounter",
+        "ease",
+        "threaten",
+        "tariff"
+      ],
+      "sent_at": "08:11"
     }
   }
 }
