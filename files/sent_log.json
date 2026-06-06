@@ -1,36 +1,4 @@
 {
-  "2026-05-31": {
-    "0": {
-      "words": [
-        "encounter",
-        "rampant",
-        "mull",
-        "justify",
-        "composer"
-      ],
-      "sent_at": "07:58"
-    },
-    "1": {
-      "words": [
-        "empirical",
-        "suspension",
-        "insufficient",
-        "encounter",
-        "delicacy"
-      ],
-      "sent_at": "15:57"
-    },
-    "2": {
-      "words": [
-        "adhere",
-        "encounter",
-        "precise",
-        "suspension",
-        "empirical"
-      ],
-      "sent_at": "20:39"
-    }
-  },
   "2026-06-01": {
     "0": {
       "words": [
@@ -211,6 +179,18 @@
         "corruption"
       ],
       "sent_at": "20:21"
+    }
+  },
+  "2026-06-07": {
+    "0": {
+      "words": [
+        "adhere",
+        "apparently",
+        "interrogate",
+        "concentrate",
+        "imply"
+      ],
+      "sent_at": "08:05"
     }
   }
 }
