@@ -1,26 +1,4 @@
 {
-  "2026-06-01": {
-    "0": {
-      "words": [
-        "rampant",
-        "adhere",
-        "explode",
-        "incredible",
-        "arrogant"
-      ],
-      "sent_at": "08:01"
-    },
-    "1": {
-      "words": [
-        "delicacy",
-        "suspension",
-        "enthusiasm",
-        "frustrate",
-        "resilient"
-      ],
-      "sent_at": "17:34"
-    }
-  },
   "2026-06-02": {
     "0": {
       "words": [
@@ -211,6 +189,18 @@
         "desirable"
       ],
       "sent_at": "20:45"
+    }
+  },
+  "2026-06-08": {
+    "0": {
+      "words": [
+        "rampant",
+        "empirical",
+        "contaminate",
+        "acquisition",
+        "subtle"
+      ],
+      "sent_at": "08:06"
     }
   }
 }
