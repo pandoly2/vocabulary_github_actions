@@ -1,36 +1,4 @@
 {
-  "2026-06-02": {
-    "0": {
-      "words": [
-        "encounter",
-        "delicacy",
-        "augment",
-        "presence",
-        "meander"
-      ],
-      "sent_at": "08:27"
-    },
-    "1": {
-      "words": [
-        "suspension",
-        "delicacy",
-        "astronomy",
-        "synthesis",
-        "abuse"
-      ],
-      "sent_at": "16:24"
-    },
-    "2": {
-      "words": [
-        "adhere",
-        "apparently",
-        "awkward",
-        "mumble",
-        "precision"
-      ],
-      "sent_at": "22:57"
-    }
-  },
   "2026-06-03": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "continent"
       ],
       "sent_at": "23:02"
+    }
+  },
+  "2026-06-09": {
+    "0": {
+      "words": [
+        "adhere",
+        "empirical",
+        "commemorate",
+        "immense",
+        "inadequate"
+      ],
+      "sent_at": "08:12"
     }
   }
 }
