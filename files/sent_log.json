@@ -1,36 +1,4 @@
 {
-  "2026-06-03": {
-    "0": {
-      "words": [
-        "rampant",
-        "apparently",
-        "correspond",
-        "density",
-        "discriminative"
-      ],
-      "sent_at": "08:47"
-    },
-    "1": {
-      "words": [
-        "suspension",
-        "rampant",
-        "naive",
-        "deputy",
-        "minister"
-      ],
-      "sent_at": "17:16"
-    },
-    "2": {
-      "words": [
-        "apparently",
-        "rampant",
-        "neutral",
-        "inaugural",
-        "pioneer"
-      ],
-      "sent_at": "23:24"
-    }
-  },
   "2026-06-04": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "navigable"
       ],
       "sent_at": "21:32"
+    }
+  },
+  "2026-06-10": {
+    "0": {
+      "words": [
+        "encounter",
+        "adhere",
+        "practically",
+        "barrier",
+        "obstacle"
+      ],
+      "sent_at": "08:17"
     }
   }
 }
