@@ -1,36 +1,4 @@
 {
-  "2026-06-04": {
-    "0": {
-      "words": [
-        "encounter",
-        "delicacy",
-        "possessive",
-        "intuitive",
-        "refugee"
-      ],
-      "sent_at": "08:45"
-    },
-    "1": {
-      "words": [
-        "encounter",
-        "delicacy",
-        "compassion",
-        "provision",
-        "institution"
-      ],
-      "sent_at": "16:24"
-    },
-    "2": {
-      "words": [
-        "rampant",
-        "delicacy",
-        "liberate",
-        "destigmatize",
-        "household"
-      ],
-      "sent_at": "21:41"
-    }
-  },
   "2026-06-05": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "squirrel"
       ],
       "sent_at": "21:52"
+    }
+  },
+  "2026-06-11": {
+    "0": {
+      "words": [
+        "delicacy",
+        "apparently",
+        "vacant",
+        "perimeter",
+        "dowry"
+      ],
+      "sent_at": "08:26"
     }
   }
 }
