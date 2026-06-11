@@ -1,36 +1,4 @@
 {
-  "2026-06-05": {
-    "0": {
-      "words": [
-        "rampant",
-        "apparently",
-        "disturbing",
-        "practice",
-        "consciousness"
-      ],
-      "sent_at": "08:10"
-    },
-    "1": {
-      "words": [
-        "adhere",
-        "rampant",
-        "discriminate",
-        "stereotype",
-        "stubborn"
-      ],
-      "sent_at": "16:07"
-    },
-    "2": {
-      "words": [
-        "rampant",
-        "empirical",
-        "breadwinner",
-        "sole",
-        "afford to"
-      ],
-      "sent_at": "21:33"
-    }
-  },
   "2026-06-06": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "reputation"
       ],
       "sent_at": "22:55"
+    }
+  },
+  "2026-06-12": {
+    "0": {
+      "words": [
+        "empirical",
+        "adhere",
+        "accurate",
+        "perspective",
+        "deduce"
+      ],
+      "sent_at": "08:23"
     }
   }
 }
