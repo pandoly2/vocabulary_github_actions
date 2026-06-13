@@ -1,36 +1,4 @@
 {
-  "2026-06-07": {
-    "0": {
-      "words": [
-        "adhere",
-        "apparently",
-        "interrogate",
-        "concentrate",
-        "imply"
-      ],
-      "sent_at": "08:05"
-    },
-    "1": {
-      "words": [
-        "suspension",
-        "empirical",
-        "grassy",
-        "discretion",
-        "upcoming"
-      ],
-      "sent_at": "16:05"
-    },
-    "2": {
-      "words": [
-        "empirical",
-        "delicacy",
-        "politician, statesman, (informal) politico",
-        "martial law",
-        "desirable"
-      ],
-      "sent_at": "20:45"
-    }
-  },
   "2026-06-08": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "sorrow"
       ],
       "sent_at": "20:51"
+    }
+  },
+  "2026-06-14": {
+    "0": {
+      "words": [
+        "encounter",
+        "apparently",
+        "soak",
+        "crave",
+        "appetite"
+      ],
+      "sent_at": "08:06"
     }
   }
 }
