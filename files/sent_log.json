@@ -1,36 +1,4 @@
 {
-  "2026-06-08": {
-    "0": {
-      "words": [
-        "rampant",
-        "empirical",
-        "contaminate",
-        "acquisition",
-        "subtle"
-      ],
-      "sent_at": "08:06"
-    },
-    "1": {
-      "words": [
-        "delicacy",
-        "encounter",
-        "thermometer",
-        "substance",
-        "insect"
-      ],
-      "sent_at": "17:09"
-    },
-    "2": {
-      "words": [
-        "delicacy",
-        "empirical",
-        "debt",
-        "expenditure",
-        "continent"
-      ],
-      "sent_at": "23:02"
-    }
-  },
   "2026-06-09": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "dedication"
       ],
       "sent_at": "20:52"
+    }
+  },
+  "2026-06-15": {
+    "0": {
+      "words": [
+        "suspension",
+        "encounter",
+        "tactless",
+        "imperative",
+        "reduction"
+      ],
+      "sent_at": "08:10"
     }
   }
 }
