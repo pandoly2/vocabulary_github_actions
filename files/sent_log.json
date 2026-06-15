@@ -1,36 +1,4 @@
 {
-  "2026-06-09": {
-    "0": {
-      "words": [
-        "adhere",
-        "empirical",
-        "commemorate",
-        "immense",
-        "inadequate"
-      ],
-      "sent_at": "08:12"
-    },
-    "1": {
-      "words": [
-        "rampant",
-        "apparently",
-        "coincide",
-        "conserve",
-        "decline"
-      ],
-      "sent_at": "15:49"
-    },
-    "2": {
-      "words": [
-        "delicacy",
-        "apparently",
-        "tremendous",
-        "cargo",
-        "navigable"
-      ],
-      "sent_at": "21:32"
-    }
-  },
   "2026-06-10": {
     "0": {
       "words": [
@@ -211,6 +179,18 @@
         "unpleasant"
       ],
       "sent_at": "18:21"
+    }
+  },
+  "2026-06-16": {
+    "0": {
+      "words": [
+        "delicacy",
+        "encounter",
+        "accomplishment",
+        "enthusiastic",
+        "affliction"
+      ],
+      "sent_at": "00:42"
     }
   }
 }
