@@ -1,36 +1,4 @@
 {
-  "2026-06-11": {
-    "0": {
-      "words": [
-        "delicacy",
-        "apparently",
-        "vacant",
-        "perimeter",
-        "dowry"
-      ],
-      "sent_at": "08:26"
-    },
-    "1": {
-      "words": [
-        "encounter",
-        "suspension",
-        "definite",
-        "robber",
-        "thief"
-      ],
-      "sent_at": "17:03"
-    },
-    "2": {
-      "words": [
-        "rampant",
-        "adhere",
-        "corrupt",
-        "protest",
-        "reputation"
-      ],
-      "sent_at": "22:55"
-    }
-  },
   "2026-06-12": {
     "0": {
       "words": [
@@ -201,6 +169,18 @@
         "oppose"
       ],
       "sent_at": "22:41"
+    }
+  },
+  "2026-06-18": {
+    "0": {
+      "words": [
+        "suspension",
+        "empirical",
+        "apprentice",
+        "apparent",
+        "curious"
+      ],
+      "sent_at": "08:26"
     }
   }
 }
