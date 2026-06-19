@@ -1,36 +1,4 @@
 {
-  "2026-06-13": {
-    "0": {
-      "words": [
-        "rampant",
-        "delicacy",
-        "nourish",
-        "instruction",
-        "exposition"
-      ],
-      "sent_at": "08:18"
-    },
-    "1": {
-      "words": [
-        "suspension",
-        "empirical",
-        "migraine",
-        "complicated",
-        "hasty"
-      ],
-      "sent_at": "15:58"
-    },
-    "2": {
-      "words": [
-        "delicacy",
-        "adhere",
-        "intricate",
-        "rouse",
-        "sorrow"
-      ],
-      "sent_at": "20:51"
-    }
-  },
   "2026-06-14": {
     "0": {
       "words": [
@@ -201,6 +169,18 @@
         "enhancement"
       ],
       "sent_at": "22:32"
+    }
+  },
+  "2026-06-20": {
+    "0": {
+      "words": [
+        "apparently",
+        "empirical",
+        "above",
+        "rot",
+        "premature"
+      ],
+      "sent_at": "07:59"
     }
   }
 }
