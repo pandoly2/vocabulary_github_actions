@@ -181,6 +181,16 @@
         "premature"
       ],
       "sent_at": "07:59"
+    },
+    "1": {
+      "words": [
+        "adhere",
+        "empirical",
+        "persevere",
+        "exploratory",
+        "reveal"
+      ],
+      "sent_at": "16:00"
     }
   }
 }
