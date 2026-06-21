@@ -1,26 +1,4 @@
 {
-  "2026-06-15": {
-    "0": {
-      "words": [
-        "suspension",
-        "encounter",
-        "tactless",
-        "imperative",
-        "reduction"
-      ],
-      "sent_at": "08:10"
-    },
-    "1": {
-      "words": [
-        "rampant",
-        "empirical",
-        "measles",
-        "pleasant",
-        "unpleasant"
-      ],
-      "sent_at": "18:21"
-    }
-  },
   "2026-06-16": {
     "0": {
       "words": [
@@ -201,6 +179,18 @@
         "explicit"
       ],
       "sent_at": "21:08"
+    }
+  },
+  "2026-06-22": {
+    "0": {
+      "words": [
+        "suspension",
+        "encounter",
+        "aspect",
+        "rigor",
+        "impractical"
+      ],
+      "sent_at": "08:15"
     }
   }
 }
