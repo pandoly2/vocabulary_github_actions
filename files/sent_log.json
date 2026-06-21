@@ -191,6 +191,16 @@
         "deterministic"
       ],
       "sent_at": "16:59"
+    },
+    "2": {
+      "words": [
+        "suspension",
+        "encounter",
+        "rationale",
+        "implicit",
+        "explicit"
+      ],
+      "sent_at": "21:08"
     }
   }
 }
