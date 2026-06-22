@@ -1,26 +1,4 @@
 {
-  "2026-06-16": {
-    "0": {
-      "words": [
-        "delicacy",
-        "encounter",
-        "accomplishment",
-        "enthusiastic",
-        "affliction"
-      ],
-      "sent_at": "08:46"
-    },
-    "1": {
-      "words": [
-        "delicacy",
-        "apparently",
-        "plaintiff",
-        "outward",
-        "comply"
-      ],
-      "sent_at": "17:45"
-    }
-  },
   "2026-06-17": {
     "0": {
       "words": [
@@ -201,6 +179,18 @@
         "acquire"
       ],
       "sent_at": "17:57"
+    }
+  },
+  "2026-06-23": {
+    "0": {
+      "words": [
+        "delicacy",
+        "empirical",
+        "distinguish",
+        "tactics",
+        "efficient"
+      ],
+      "sent_at": "00:21"
     }
   }
 }
