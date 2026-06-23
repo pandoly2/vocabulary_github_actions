@@ -1,36 +1,4 @@
 {
-  "2026-06-17": {
-    "0": {
-      "words": [
-        "delicacy",
-        "adhere",
-        "acquainted",
-        "compose",
-        "trivia"
-      ],
-      "sent_at": "08:24"
-    },
-    "1": {
-      "words": [
-        "suspension",
-        "adhere",
-        "equilibrium",
-        "fluctuate",
-        "possess"
-      ],
-      "sent_at": "17:28"
-    },
-    "2": {
-      "words": [
-        "adhere",
-        "suspension",
-        "obey",
-        "accuser",
-        "oppose"
-      ],
-      "sent_at": "22:41"
-    }
-  },
   "2026-06-18": {
     "0": {
       "words": [
@@ -211,6 +179,18 @@
         "belong"
       ],
       "sent_at": "21:29"
+    }
+  },
+  "2026-06-24": {
+    "0": {
+      "words": [
+        "suspension",
+        "apparently",
+        "fabricate",
+        "indirection",
+        "facade"
+      ],
+      "sent_at": "08:09"
     }
   }
 }
