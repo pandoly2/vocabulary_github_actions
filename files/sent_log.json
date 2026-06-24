@@ -1,36 +1,4 @@
 {
-  "2026-06-18": {
-    "0": {
-      "words": [
-        "suspension",
-        "empirical",
-        "apprentice",
-        "apparent",
-        "curious"
-      ],
-      "sent_at": "08:26"
-    },
-    "1": {
-      "words": [
-        "encounter",
-        "adhere",
-        "symptom",
-        "wrist",
-        "strain"
-      ],
-      "sent_at": "17:07"
-    },
-    "2": {
-      "words": [
-        "adhere",
-        "apparently",
-        "conservative",
-        "extrovert",
-        "democratic"
-      ],
-      "sent_at": "21:48"
-    }
-  },
   "2026-06-19": {
     "0": {
       "words": [
@@ -211,6 +179,18 @@
         "likelihood"
       ],
       "sent_at": "21:16"
+    }
+  },
+  "2026-06-25": {
+    "0": {
+      "words": [
+        "encounter",
+        "rampant",
+        "ties",
+        "genetic",
+        "breed"
+      ],
+      "sent_at": "08:04"
     }
   }
 }
