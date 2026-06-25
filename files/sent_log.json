@@ -1,36 +1,4 @@
 {
-  "2026-06-19": {
-    "0": {
-      "words": [
-        "encounter",
-        "suspension",
-        "betterment",
-        "dare",
-        "explosion"
-      ],
-      "sent_at": "08:47"
-    },
-    "1": {
-      "words": [
-        "apparently",
-        "suspension",
-        "passive",
-        "pursue",
-        "grovel"
-      ],
-      "sent_at": "17:31"
-    },
-    "2": {
-      "words": [
-        "encounter",
-        "apparently",
-        "ordinary",
-        "enhance",
-        "enhancement"
-      ],
-      "sent_at": "22:32"
-    }
-  },
   "2026-06-20": {
     "0": {
       "words": [
@@ -211,6 +179,18 @@
         "inflammation"
       ],
       "sent_at": "21:13"
+    }
+  },
+  "2026-06-26": {
+    "0": {
+      "words": [
+        "adhere",
+        "apparently",
+        "obesity",
+        "scorching",
+        "vitality"
+      ],
+      "sent_at": "08:19"
     }
   }
 }
