@@ -191,6 +191,16 @@
         "breed"
       ],
       "sent_at": "08:04"
+    },
+    "1": {
+      "words": [
+        "empirical",
+        "suspension",
+        "jaw",
+        "polymorphism",
+        "emphasis"
+      ],
+      "sent_at": "15:47"
     }
   }
 }
