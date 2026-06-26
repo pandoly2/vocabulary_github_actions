@@ -1,36 +1,4 @@
 {
-  "2026-06-20": {
-    "0": {
-      "words": [
-        "apparently",
-        "empirical",
-        "above",
-        "rot",
-        "premature"
-      ],
-      "sent_at": "07:59"
-    },
-    "1": {
-      "words": [
-        "adhere",
-        "empirical",
-        "persevere",
-        "exploratory",
-        "reveal"
-      ],
-      "sent_at": "16:00"
-    },
-    "2": {
-      "words": [
-        "encounter",
-        "apparently",
-        "rational",
-        "embrace",
-        "invasion"
-      ],
-      "sent_at": "20:53"
-    }
-  },
   "2026-06-21": {
     "0": {
       "words": [
@@ -211,6 +179,18 @@
         "get used to"
       ],
       "sent_at": "21:08"
+    }
+  },
+  "2026-06-27": {
+    "0": {
+      "words": [
+        "suspension",
+        "empirical",
+        "investigation",
+        "controversial",
+        "contraction"
+      ],
+      "sent_at": "08:07"
     }
   }
 }
