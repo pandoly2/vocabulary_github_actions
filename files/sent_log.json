@@ -1,36 +1,4 @@
 {
-  "2026-06-21": {
-    "0": {
-      "words": [
-        "suspension",
-        "empirical",
-        "disease",
-        "diagnosis",
-        "assumption"
-      ],
-      "sent_at": "08:10"
-    },
-    "1": {
-      "words": [
-        "delicacy",
-        "encounter",
-        "intermediate",
-        "immature",
-        "deterministic"
-      ],
-      "sent_at": "16:59"
-    },
-    "2": {
-      "words": [
-        "suspension",
-        "encounter",
-        "rationale",
-        "implicit",
-        "explicit"
-      ],
-      "sent_at": "21:08"
-    }
-  },
   "2026-06-22": {
     "0": {
       "words": [
@@ -211,6 +179,18 @@
         "naked"
       ],
       "sent_at": "20:24"
+    }
+  },
+  "2026-06-28": {
+    "0": {
+      "words": [
+        "delicacy",
+        "apparently",
+        "obviously",
+        "embarrass",
+        "impromptu"
+      ],
+      "sent_at": "08:03"
     }
   }
 }
