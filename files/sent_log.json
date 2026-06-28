@@ -201,6 +201,16 @@
         "occupation"
       ],
       "sent_at": "16:02"
+    },
+    "2": {
+      "words": [
+        "encounter",
+        "empirical",
+        "accused",
+        "unjustly",
+        "abnormal"
+      ],
+      "sent_at": "20:44"
     }
   }
 }
