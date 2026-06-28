@@ -1,26 +1,4 @@
 {
-  "2026-06-22": {
-    "0": {
-      "words": [
-        "suspension",
-        "encounter",
-        "aspect",
-        "rigor",
-        "impractical"
-      ],
-      "sent_at": "08:15"
-    },
-    "1": {
-      "words": [
-        "adhere",
-        "encounter",
-        "confidence",
-        "alternatively",
-        "acquire"
-      ],
-      "sent_at": "17:57"
-    }
-  },
   "2026-06-23": {
     "0": {
       "words": [
@@ -211,6 +189,18 @@
         "abnormal"
       ],
       "sent_at": "20:44"
+    }
+  },
+  "2026-06-29": {
+    "0": {
+      "words": [
+        "rampant",
+        "apparently",
+        "criticize",
+        "vulnerable",
+        "thick"
+      ],
+      "sent_at": "08:04"
     }
   }
 }
