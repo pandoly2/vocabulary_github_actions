@@ -1,36 +1,4 @@
 {
-  "2026-06-23": {
-    "0": {
-      "words": [
-        "delicacy",
-        "empirical",
-        "distinguish",
-        "tactics",
-        "efficient"
-      ],
-      "sent_at": "08:21"
-    },
-    "1": {
-      "words": [
-        "apparently",
-        "encounter",
-        "defer",
-        "supplement",
-        "condiment"
-      ],
-      "sent_at": "15:50"
-    },
-    "2": {
-      "words": [
-        "apparently",
-        "suspension",
-        "wild",
-        "ancestor",
-        "belong"
-      ],
-      "sent_at": "21:29"
-    }
-  },
   "2026-06-24": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "encounter"
       ],
       "sent_at": "23:00"
+    }
+  },
+  "2026-06-30": {
+    "0": {
+      "words": [
+        "suspension",
+        "rampant",
+        "concise",
+        "precise",
+        "adhere"
+      ],
+      "sent_at": "07:59"
     }
   }
 }
