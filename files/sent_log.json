@@ -1,36 +1,4 @@
 {
-  "2026-06-25": {
-    "0": {
-      "words": [
-        "encounter",
-        "rampant",
-        "ties",
-        "genetic",
-        "breed"
-      ],
-      "sent_at": "08:04"
-    },
-    "1": {
-      "words": [
-        "empirical",
-        "suspension",
-        "jaw",
-        "polymorphism",
-        "emphasis"
-      ],
-      "sent_at": "15:47"
-    },
-    "2": {
-      "words": [
-        "encounter",
-        "empirical",
-        "persistent",
-        "diabetes",
-        "inflammation"
-      ],
-      "sent_at": "21:13"
-    }
-  },
   "2026-06-26": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "synthesis"
       ],
       "sent_at": "21:30"
+    }
+  },
+  "2026-07-02": {
+    "0": {
+      "words": [
+        "apparently",
+        "empirical",
+        "temptation",
+        "awkward",
+        "mumble"
+      ],
+      "sent_at": "08:17"
     }
   }
 }
