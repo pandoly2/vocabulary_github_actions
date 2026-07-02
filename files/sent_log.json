@@ -1,36 +1,4 @@
 {
-  "2026-06-26": {
-    "0": {
-      "words": [
-        "adhere",
-        "apparently",
-        "obesity",
-        "scorching",
-        "vitality"
-      ],
-      "sent_at": "08:19"
-    },
-    "1": {
-      "words": [
-        "delicacy",
-        "empirical",
-        "practical",
-        "punctual",
-        "massive"
-      ],
-      "sent_at": "15:54"
-    },
-    "2": {
-      "words": [
-        "empirical",
-        "suspension",
-        "be against",
-        "preposition",
-        "get used to"
-      ],
-      "sent_at": "21:08"
-    }
-  },
   "2026-06-27": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "deputy"
       ],
       "sent_at": "21:05"
+    }
+  },
+  "2026-07-03": {
+    "0": {
+      "words": [
+        "apparently",
+        "adhere",
+        "majority",
+        "neutral",
+        "inaugural"
+      ],
+      "sent_at": "08:09"
     }
   }
 }
