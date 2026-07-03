@@ -1,36 +1,4 @@
 {
-  "2026-06-27": {
-    "0": {
-      "words": [
-        "suspension",
-        "empirical",
-        "investigation",
-        "controversial",
-        "contraction"
-      ],
-      "sent_at": "08:07"
-    },
-    "1": {
-      "words": [
-        "apparently",
-        "empirical",
-        "fixate",
-        "obvious",
-        "adorable"
-      ],
-      "sent_at": "15:29"
-    },
-    "2": {
-      "words": [
-        "encounter",
-        "rampant",
-        "turn out",
-        "totally",
-        "naked"
-      ],
-      "sent_at": "20:24"
-    }
-  },
   "2026-06-28": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "provision"
       ],
       "sent_at": "21:05"
+    }
+  },
+  "2026-07-04": {
+    "0": {
+      "words": [
+        "apparently",
+        "delicacy",
+        "assume",
+        "liberate",
+        "destigmatize"
+      ],
+      "sent_at": "08:05"
     }
   }
 }
