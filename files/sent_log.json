@@ -1,36 +1,4 @@
 {
-  "2026-06-28": {
-    "0": {
-      "words": [
-        "delicacy",
-        "apparently",
-        "obviously",
-        "embarrass",
-        "impromptu"
-      ],
-      "sent_at": "08:03"
-    },
-    "1": {
-      "words": [
-        "rampant",
-        "adhere",
-        "feign",
-        "feigned",
-        "occupation"
-      ],
-      "sent_at": "16:02"
-    },
-    "2": {
-      "words": [
-        "encounter",
-        "empirical",
-        "accused",
-        "unjustly",
-        "abnormal"
-      ],
-      "sent_at": "20:44"
-    }
-  },
   "2026-06-29": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "stereotype"
       ],
       "sent_at": "20:22"
+    }
+  },
+  "2026-07-05": {
+    "0": {
+      "words": [
+        "empirical",
+        "suspension",
+        "hardship",
+        "breadwinner",
+        "sole"
+      ],
+      "sent_at": "07:58"
     }
   }
 }
