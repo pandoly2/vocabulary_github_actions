@@ -1,36 +1,4 @@
 {
-  "2026-06-30": {
-    "0": {
-      "words": [
-        "suspension",
-        "rampant",
-        "concise",
-        "precise",
-        "adhere"
-      ],
-      "sent_at": "07:59"
-    },
-    "1": {
-      "words": [
-        "rampant",
-        "encounter",
-        "spontaneous",
-        "explode",
-        "incredible"
-      ],
-      "sent_at": "15:55"
-    },
-    "2": {
-      "words": [
-        "delicacy",
-        "rampant",
-        "committed",
-        "enthusiasm",
-        "frustrate"
-      ],
-      "sent_at": "21:05"
-    }
-  },
   "2026-07-01": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "discretion"
       ],
       "sent_at": "22:40"
+    }
+  },
+  "2026-07-07": {
+    "0": {
+      "words": [
+        "adhere",
+        "delicacy",
+        "affection",
+        "politician, statesman, (informal) politico",
+        "martial law"
+      ],
+      "sent_at": "08:09"
     }
   }
 }
