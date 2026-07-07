@@ -1,36 +1,4 @@
 {
-  "2026-07-01": {
-    "0": {
-      "words": [
-        "rampant",
-        "apparently",
-        "exotic",
-        "literally",
-        "linger"
-      ],
-      "sent_at": "08:14"
-    },
-    "1": {
-      "words": [
-        "delicacy",
-        "adhere",
-        "relevance",
-        "augment",
-        "presence"
-      ],
-      "sent_at": "16:11"
-    },
-    "2": {
-      "words": [
-        "apparently",
-        "empirical",
-        "percolate",
-        "astronomy",
-        "synthesis"
-      ],
-      "sent_at": "21:30"
-    }
-  },
   "2026-07-02": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "substance"
       ],
       "sent_at": "21:24"
+    }
+  },
+  "2026-07-08": {
+    "0": {
+      "words": [
+        "delicacy",
+        "empirical",
+        "occupy",
+        "debt",
+        "expenditure"
+      ],
+      "sent_at": "08:03"
     }
   }
 }
