@@ -1,36 +1,4 @@
 {
-  "2026-07-02": {
-    "0": {
-      "words": [
-        "apparently",
-        "empirical",
-        "temptation",
-        "awkward",
-        "mumble"
-      ],
-      "sent_at": "08:17"
-    },
-    "1": {
-      "words": [
-        "suspension",
-        "adhere",
-        "disruption",
-        "correspond",
-        "density"
-      ],
-      "sent_at": "15:40"
-    },
-    "2": {
-      "words": [
-        "apparently",
-        "rampant",
-        "reciprocal",
-        "naive",
-        "deputy"
-      ],
-      "sent_at": "21:05"
-    }
-  },
   "2026-07-03": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "conserve"
       ],
       "sent_at": "20:43"
+    }
+  },
+  "2026-07-09": {
+    "0": {
+      "words": [
+        "suspension",
+        "encounter",
+        "prospector",
+        "tremendous",
+        "cargo"
+      ],
+      "sent_at": "08:09"
     }
   }
 }
