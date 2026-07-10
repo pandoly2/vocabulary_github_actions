@@ -1,36 +1,4 @@
 {
-  "2026-07-04": {
-    "0": {
-      "words": [
-        "apparently",
-        "delicacy",
-        "assume",
-        "liberate",
-        "destigmatize"
-      ],
-      "sent_at": "08:05"
-    },
-    "1": {
-      "words": [
-        "encounter",
-        "delicacy",
-        "incur",
-        "disturbing",
-        "practice"
-      ],
-      "sent_at": "15:19"
-    },
-    "2": {
-      "words": [
-        "encounter",
-        "empirical",
-        "exemption",
-        "discriminate",
-        "stereotype"
-      ],
-      "sent_at": "20:22"
-    }
-  },
   "2026-07-05": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "robber"
       ],
       "sent_at": "21:22"
+    }
+  },
+  "2026-07-11": {
+    "0": {
+      "words": [
+        "apparently",
+        "rampant",
+        "senator",
+        "corrupt",
+        "protest"
+      ],
+      "sent_at": "07:59"
     }
   }
 }
