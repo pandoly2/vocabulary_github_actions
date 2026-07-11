@@ -1,36 +1,4 @@
 {
-  "2026-07-05": {
-    "0": {
-      "words": [
-        "empirical",
-        "suspension",
-        "hardship",
-        "breadwinner",
-        "sole"
-      ],
-      "sent_at": "07:58"
-    },
-    "1": {
-      "words": [
-        "encounter",
-        "apparently",
-        "cherish",
-        "ease",
-        "threaten"
-      ],
-      "sent_at": "15:40"
-    },
-    "2": {
-      "words": [
-        "encounter",
-        "suspension",
-        "agriculture",
-        "pledge",
-        "tactful"
-      ],
-      "sent_at": "20:26"
-    }
-  },
   "2026-07-06": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "abbreviation"
       ],
       "sent_at": "19:59"
+    }
+  },
+  "2026-07-12": {
+    "0": {
+      "words": [
+        "encounter",
+        "rampant",
+        "legume",
+        "attentive",
+        "constant"
+      ],
+      "sent_at": "07:50"
     }
   }
 }
