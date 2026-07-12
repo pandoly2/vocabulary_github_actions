@@ -1,36 +1,4 @@
 {
-  "2026-07-06": {
-    "0": {
-      "words": [
-        "empirical",
-        "suspension",
-        "anxious",
-        "fiesta",
-        "frustrated"
-      ],
-      "sent_at": "08:02"
-    },
-    "1": {
-      "words": [
-        "adhere",
-        "empirical",
-        "proficient",
-        "interrogate",
-        "concentrate"
-      ],
-      "sent_at": "16:12"
-    },
-    "2": {
-      "words": [
-        "encounter",
-        "delicacy",
-        "signify",
-        "grassy",
-        "discretion"
-      ],
-      "sent_at": "22:40"
-    }
-  },
   "2026-07-07": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "complicated"
       ],
       "sent_at": "20:07"
+    }
+  },
+  "2026-07-13": {
+    "0": {
+      "words": [
+        "apparently",
+        "delicacy",
+        "accountable",
+        "intricate",
+        "rouse"
+      ],
+      "sent_at": "07:51"
     }
   }
 }
