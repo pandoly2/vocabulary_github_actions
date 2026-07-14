@@ -1,36 +1,4 @@
 {
-  "2026-07-08": {
-    "0": {
-      "words": [
-        "delicacy",
-        "empirical",
-        "occupy",
-        "debt",
-        "expenditure"
-      ],
-      "sent_at": "08:03"
-    },
-    "1": {
-      "words": [
-        "delicacy",
-        "suspension",
-        "furnish",
-        "commemorate",
-        "immense"
-      ],
-      "sent_at": "14:50"
-    },
-    "2": {
-      "words": [
-        "encounter",
-        "empirical",
-        "polish",
-        "coincide",
-        "conserve"
-      ],
-      "sent_at": "20:43"
-    }
-  },
   "2026-07-09": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "pleasant"
       ],
       "sent_at": "20:22"
+    }
+  },
+  "2026-07-15": {
+    "0": {
+      "words": [
+        "delicacy",
+        "encounter",
+        "grief",
+        "observant",
+        "convince"
+      ],
+      "sent_at": "07:57"
     }
   }
 }
