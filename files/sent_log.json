@@ -1,36 +1,4 @@
 {
-  "2026-07-10": {
-    "0": {
-      "words": [
-        "delicacy",
-        "empirical",
-        "belief",
-        "stagnate",
-        "distract"
-      ],
-      "sent_at": "08:13"
-    },
-    "1": {
-      "words": [
-        "apparently",
-        "delicacy",
-        "platoon",
-        "vacant",
-        "perimeter"
-      ],
-      "sent_at": "15:45"
-    },
-    "2": {
-      "words": [
-        "rampant",
-        "adhere",
-        "submerge",
-        "definite",
-        "robber"
-      ],
-      "sent_at": "21:22"
-    }
-  },
   "2026-07-11": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "fluctuate"
       ],
       "sent_at": "20:29"
+    }
+  },
+  "2026-07-17": {
+    "0": {
+      "words": [
+        "rampant",
+        "empirical",
+        "inordinate",
+        "obey",
+        "accuser"
+      ],
+      "sent_at": "07:57"
     }
   }
 }
