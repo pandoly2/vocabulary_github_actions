@@ -1,36 +1,4 @@
 {
-  "2026-07-11": {
-    "0": {
-      "words": [
-        "apparently",
-        "rampant",
-        "senator",
-        "corrupt",
-        "protest"
-      ],
-      "sent_at": "07:59"
-    },
-    "1": {
-      "words": [
-        "apparently",
-        "delicacy",
-        "pastime",
-        "accurate",
-        "perspective"
-      ],
-      "sent_at": "14:40"
-    },
-    "2": {
-      "words": [
-        "empirical",
-        "rampant",
-        "notion",
-        "conscious",
-        "abbreviation"
-      ],
-      "sent_at": "19:59"
-    }
-  },
   "2026-07-12": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "wrist"
       ],
       "sent_at": "20:18"
+    }
+  },
+  "2026-07-18": {
+    "0": {
+      "words": [
+        "suspension",
+        "delicacy",
+        "pretend",
+        "conservative",
+        "extrovert"
+      ],
+      "sent_at": "07:51"
     }
   }
 }
