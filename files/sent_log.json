@@ -1,36 +1,4 @@
 {
-  "2026-07-13": {
-    "0": {
-      "words": [
-        "apparently",
-        "delicacy",
-        "accountable",
-        "intricate",
-        "rouse"
-      ],
-      "sent_at": "07:51"
-    },
-    "1": {
-      "words": [
-        "encounter",
-        "adhere",
-        "binge",
-        "soak",
-        "crave"
-      ],
-      "sent_at": "15:17"
-    },
-    "2": {
-      "words": [
-        "adhere",
-        "suspension",
-        "permanent",
-        "engage",
-        "fascinate"
-      ],
-      "sent_at": "21:27"
-    }
-  },
   "2026-07-14": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "exploratory"
       ],
       "sent_at": "20:06"
+    }
+  },
+  "2026-07-20": {
+    "0": {
+      "words": [
+        "rampant",
+        "adhere",
+        "cope",
+        "rational",
+        "embrace"
+      ],
+      "sent_at": "07:53"
     }
   }
 }
