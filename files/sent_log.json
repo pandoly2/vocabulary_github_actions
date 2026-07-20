@@ -1,36 +1,4 @@
 {
-  "2026-07-14": {
-    "0": {
-      "words": [
-        "suspension",
-        "apparently",
-        "vigilant",
-        "dedicate",
-        "setback"
-      ],
-      "sent_at": "07:56"
-    },
-    "1": {
-      "words": [
-        "delicacy",
-        "encounter",
-        "intervene",
-        "tactless",
-        "imperative"
-      ],
-      "sent_at": "14:29"
-    },
-    "2": {
-      "words": [
-        "adhere",
-        "delicacy",
-        "mayor",
-        "measles",
-        "pleasant"
-      ],
-      "sent_at": "20:22"
-    }
-  },
   "2026-07-15": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "immature"
       ],
       "sent_at": "21:12"
+    }
+  },
+  "2026-07-21": {
+    "0": {
+      "words": [
+        "encounter",
+        "adhere",
+        "tangibility",
+        "rationale",
+        "implicit"
+      ],
+      "sent_at": "08:01"
     }
   }
 }
