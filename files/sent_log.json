@@ -1,36 +1,4 @@
 {
-  "2026-07-15": {
-    "0": {
-      "words": [
-        "delicacy",
-        "encounter",
-        "grief",
-        "observant",
-        "convince"
-      ],
-      "sent_at": "07:57"
-    },
-    "1": {
-      "words": [
-        "suspension",
-        "empirical",
-        "climate",
-        "accomplishment",
-        "enthusiastic"
-      ],
-      "sent_at": "14:30"
-    },
-    "2": {
-      "words": [
-        "adhere",
-        "suspension",
-        "complainant",
-        "plaintiff",
-        "outward"
-      ],
-      "sent_at": "20:25"
-    }
-  },
   "2026-07-16": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "alternatively"
       ],
       "sent_at": "20:43"
+    }
+  },
+  "2026-07-22": {
+    "0": {
+      "words": [
+        "empirical",
+        "suspension",
+        "autonomous",
+        "deficiency",
+        "refinement"
+      ],
+      "sent_at": "07:58"
     }
   }
 }
