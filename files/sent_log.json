@@ -1,36 +1,4 @@
 {
-  "2026-07-17": {
-    "0": {
-      "words": [
-        "rampant",
-        "empirical",
-        "inordinate",
-        "obey",
-        "accuser"
-      ],
-      "sent_at": "07:57"
-    },
-    "1": {
-      "words": [
-        "delicacy",
-        "empirical",
-        "impend",
-        "apprentice",
-        "apparent"
-      ],
-      "sent_at": "14:41"
-    },
-    "2": {
-      "words": [
-        "empirical",
-        "apparently",
-        "antacid",
-        "symptom",
-        "wrist"
-      ],
-      "sent_at": "20:18"
-    }
-  },
   "2026-07-18": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "constraint"
       ],
       "sent_at": "20:47"
+    }
+  },
+  "2026-07-24": {
+    "0": {
+      "words": [
+        "encounter",
+        "delicacy",
+        "immobile",
+        "fragile",
+        "rigid"
+      ],
+      "sent_at": "07:57"
     }
   }
 }
