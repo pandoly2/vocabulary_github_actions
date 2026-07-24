@@ -1,36 +1,4 @@
 {
-  "2026-07-18": {
-    "0": {
-      "words": [
-        "suspension",
-        "delicacy",
-        "pretend",
-        "conservative",
-        "extrovert"
-      ],
-      "sent_at": "07:51"
-    },
-    "1": {
-      "words": [
-        "delicacy",
-        "encounter",
-        "diplomatic",
-        "betterment",
-        "dare"
-      ],
-      "sent_at": "14:25"
-    },
-    "2": {
-      "words": [
-        "empirical",
-        "rampant",
-        "compliment",
-        "passive",
-        "pursue"
-      ],
-      "sent_at": "19:58"
-    }
-  },
   "2026-07-19": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "polymorphism"
       ],
       "sent_at": "20:38"
+    }
+  },
+  "2026-07-25": {
+    "0": {
+      "words": [
+        "encounter",
+        "rampant",
+        "conventional",
+        "persistent",
+        "diabetes"
+      ],
+      "sent_at": "08:02"
     }
   }
 }
