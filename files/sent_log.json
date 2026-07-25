@@ -1,36 +1,4 @@
 {
-  "2026-07-19": {
-    "0": {
-      "words": [
-        "rampant",
-        "empirical",
-        "accommodate",
-        "ordinary",
-        "enhance"
-      ],
-      "sent_at": "07:51"
-    },
-    "1": {
-      "words": [
-        "suspension",
-        "adhere",
-        "particular",
-        "above",
-        "rot"
-      ],
-      "sent_at": "14:52"
-    },
-    "2": {
-      "words": [
-        "encounter",
-        "delicacy",
-        "upfront",
-        "persevere",
-        "exploratory"
-      ],
-      "sent_at": "20:06"
-    }
-  },
   "2026-07-20": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "punctual"
       ],
       "sent_at": "20:05"
+    }
+  },
+  "2026-07-26": {
+    "0": {
+      "words": [
+        "rampant",
+        "delicacy",
+        "unify",
+        "be against",
+        "preposition"
+      ],
+      "sent_at": "07:56"
     }
   }
 }
