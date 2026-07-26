@@ -1,36 +1,4 @@
 {
-  "2026-07-20": {
-    "0": {
-      "words": [
-        "rampant",
-        "adhere",
-        "cope",
-        "rational",
-        "embrace"
-      ],
-      "sent_at": "07:53"
-    },
-    "1": {
-      "words": [
-        "rampant",
-        "adhere",
-        "derived",
-        "disease",
-        "diagnosis"
-      ],
-      "sent_at": "15:17"
-    },
-    "2": {
-      "words": [
-        "suspension",
-        "apparently",
-        "universal",
-        "intermediate",
-        "immature"
-      ],
-      "sent_at": "21:12"
-    }
-  },
   "2026-07-21": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "obvious"
       ],
       "sent_at": "20:15"
+    }
+  },
+  "2026-07-27": {
+    "0": {
+      "words": [
+        "adhere",
+        "apparently",
+        "weird",
+        "turn out",
+        "totally"
+      ],
+      "sent_at": "07:59"
     }
   }
 }
