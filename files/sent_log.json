@@ -1,36 +1,4 @@
 {
-  "2026-07-21": {
-    "0": {
-      "words": [
-        "encounter",
-        "adhere",
-        "tangibility",
-        "rationale",
-        "implicit"
-      ],
-      "sent_at": "08:01"
-    },
-    "1": {
-      "words": [
-        "adhere",
-        "suspension",
-        "involvement",
-        "aspect",
-        "rigor"
-      ],
-      "sent_at": "14:49"
-    },
-    "2": {
-      "words": [
-        "suspension",
-        "encounter",
-        "preemption",
-        "confidence",
-        "alternatively"
-      ],
-      "sent_at": "20:43"
-    }
-  },
   "2026-07-22": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "feigned"
       ],
       "sent_at": "21:52"
+    }
+  },
+  "2026-07-28": {
+    "0": {
+      "words": [
+        "empirical",
+        "adhere",
+        "politician",
+        "accused",
+        "unjustly"
+      ],
+      "sent_at": "08:02"
     }
   }
 }
