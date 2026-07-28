@@ -1,36 +1,4 @@
 {
-  "2026-07-22": {
-    "0": {
-      "words": [
-        "empirical",
-        "suspension",
-        "autonomous",
-        "deficiency",
-        "refinement"
-      ],
-      "sent_at": "07:58"
-    },
-    "1": {
-      "words": [
-        "suspension",
-        "adhere",
-        "sincere",
-        "distinguish",
-        "tactics"
-      ],
-      "sent_at": "14:49"
-    },
-    "2": {
-      "words": [
-        "apparently",
-        "rampant",
-        "extract",
-        "defer",
-        "supplement"
-      ],
-      "sent_at": "20:44"
-    }
-  },
   "2026-07-23": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "mull"
       ],
       "sent_at": "20:53"
+    }
+  },
+  "2026-07-29": {
+    "0": {
+      "words": [
+        "adhere",
+        "encounter",
+        "indicate",
+        "hesitate",
+        "insufficient"
+      ],
+      "sent_at": "08:00"
     }
   }
 }
