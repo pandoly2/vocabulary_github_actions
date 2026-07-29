@@ -1,36 +1,4 @@
 {
-  "2026-07-23": {
-    "0": {
-      "words": [
-        "delicacy",
-        "empirical",
-        "dwindle",
-        "wild",
-        "ancestor"
-      ],
-      "sent_at": "08:05"
-    },
-    "1": {
-      "words": [
-        "suspension",
-        "delicacy",
-        "fuzzy",
-        "fabricate",
-        "indirection"
-      ],
-      "sent_at": "14:53"
-    },
-    "2": {
-      "words": [
-        "delicacy",
-        "encounter",
-        "enrollment",
-        "segregate",
-        "constraint"
-      ],
-      "sent_at": "20:47"
-    }
-  },
   "2026-07-24": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "explode"
       ],
       "sent_at": "20:57"
+    }
+  },
+  "2026-07-30": {
+    "0": {
+      "words": [
+        "delicacy",
+        "adhere",
+        "empathetic",
+        "committed",
+        "enthusiasm"
+      ],
+      "sent_at": "07:59"
     }
   }
 }
