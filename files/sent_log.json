@@ -1,36 +1,4 @@
 {
-  "2026-07-24": {
-    "0": {
-      "words": [
-        "encounter",
-        "delicacy",
-        "immobile",
-        "fragile",
-        "rigid"
-      ],
-      "sent_at": "07:57"
-    },
-    "1": {
-      "words": [
-        "adhere",
-        "suspension",
-        "indigenous",
-        "ties",
-        "genetic"
-      ],
-      "sent_at": "14:49"
-    },
-    "2": {
-      "words": [
-        "adhere",
-        "rampant",
-        "stocky",
-        "jaw",
-        "polymorphism"
-      ],
-      "sent_at": "20:38"
-    }
-  },
   "2026-07-25": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "augment"
       ],
       "sent_at": "20:47"
+    }
+  },
+  "2026-07-31": {
+    "0": {
+      "words": [
+        "encounter",
+        "suspension",
+        "frolic",
+        "percolate",
+        "astronomy"
+      ],
+      "sent_at": "08:08"
     }
   }
 }
