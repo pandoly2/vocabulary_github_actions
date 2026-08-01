@@ -1,36 +1,4 @@
 {
-  "2026-07-26": {
-    "0": {
-      "words": [
-        "rampant",
-        "delicacy",
-        "unify",
-        "be against",
-        "preposition"
-      ],
-      "sent_at": "07:56"
-    },
-    "1": {
-      "words": [
-        "suspension",
-        "rampant",
-        "confuse",
-        "investigation",
-        "controversial"
-      ],
-      "sent_at": "15:04"
-    },
-    "2": {
-      "words": [
-        "adhere",
-        "empirical",
-        "significance",
-        "fixate",
-        "obvious"
-      ],
-      "sent_at": "20:15"
-    }
-  },
   "2026-07-27": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "possessive"
       ],
       "sent_at": "20:12"
+    }
+  },
+  "2026-08-02": {
+    "0": {
+      "words": [
+        "empirical",
+        "rampant",
+        "persecute",
+        "prescribe",
+        "compassion"
+      ],
+      "sent_at": "07:56"
     }
   }
 }
