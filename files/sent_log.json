@@ -1,36 +1,4 @@
 {
-  "2026-07-27": {
-    "0": {
-      "words": [
-        "adhere",
-        "apparently",
-        "weird",
-        "turn out",
-        "totally"
-      ],
-      "sent_at": "07:59"
-    },
-    "1": {
-      "words": [
-        "empirical",
-        "suspension",
-        "encourage",
-        "obviously",
-        "embarrass"
-      ],
-      "sent_at": "15:29"
-    },
-    "2": {
-      "words": [
-        "apparently",
-        "encounter",
-        "founder",
-        "feign",
-        "feigned"
-      ],
-      "sent_at": "21:52"
-    }
-  },
   "2026-07-28": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "disturbing"
       ],
       "sent_at": "20:12"
+    }
+  },
+  "2026-08-03": {
+    "0": {
+      "words": [
+        "encounter",
+        "delicacy",
+        "diplomacy",
+        "exemption",
+        "discriminate"
+      ],
+      "sent_at": "07:57"
     }
   }
 }
