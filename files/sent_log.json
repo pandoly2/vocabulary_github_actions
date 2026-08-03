@@ -1,36 +1,4 @@
 {
-  "2026-07-28": {
-    "0": {
-      "words": [
-        "empirical",
-        "adhere",
-        "politician",
-        "accused",
-        "unjustly"
-      ],
-      "sent_at": "08:02"
-    },
-    "1": {
-      "words": [
-        "rampant",
-        "empirical",
-        "judgement",
-        "criticize",
-        "vulnerable"
-      ],
-      "sent_at": "14:45"
-    },
-    "2": {
-      "words": [
-        "encounter",
-        "delicacy",
-        "commitment",
-        "abroad",
-        "mull"
-      ],
-      "sent_at": "20:53"
-    }
-  },
   "2026-07-29": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "ease"
       ],
       "sent_at": "21:51"
+    }
+  },
+  "2026-08-04": {
+    "0": {
+      "words": [
+        "suspension",
+        "apparently",
+        "cinephile",
+        "agriculture",
+        "pledge"
+      ],
+      "sent_at": "08:01"
     }
   }
 }
