@@ -1,36 +1,4 @@
 {
-  "2026-07-29": {
-    "0": {
-      "words": [
-        "adhere",
-        "encounter",
-        "indicate",
-        "hesitate",
-        "insufficient"
-      ],
-      "sent_at": "08:00"
-    },
-    "1": {
-      "words": [
-        "apparently",
-        "encounter",
-        "concise",
-        "precise",
-        "adhere"
-      ],
-      "sent_at": "14:51"
-    },
-    "2": {
-      "words": [
-        "apparently",
-        "adhere",
-        "empirical",
-        "spontaneous",
-        "explode"
-      ],
-      "sent_at": "20:57"
-    }
-  },
   "2026-07-30": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "interrogate"
       ],
       "sent_at": "20:59"
+    }
+  },
+  "2026-08-05": {
+    "0": {
+      "words": [
+        "delicacy",
+        "suspension",
+        "affectionate",
+        "signify",
+        "grassy"
+      ],
+      "sent_at": "08:04"
     }
   }
 }
