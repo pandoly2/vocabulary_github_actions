@@ -1,36 +1,4 @@
 {
-  "2026-07-30": {
-    "0": {
-      "words": [
-        "delicacy",
-        "adhere",
-        "empathetic",
-        "committed",
-        "enthusiasm"
-      ],
-      "sent_at": "07:59"
-    },
-    "1": {
-      "words": [
-        "encounter",
-        "adhere",
-        "ambitious",
-        "exotic",
-        "literally"
-      ],
-      "sent_at": "14:40"
-    },
-    "2": {
-      "words": [
-        "encounter",
-        "empirical",
-        "restrictive",
-        "relevance",
-        "augment"
-      ],
-      "sent_at": "20:47"
-    }
-  },
   "2026-07-31": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "contaminate"
       ],
       "sent_at": "20:54"
+    }
+  },
+  "2026-08-06": {
+    "0": {
+      "words": [
+        "apparently",
+        "rampant",
+        "excrete",
+        "ingest",
+        "thermometer"
+      ],
+      "sent_at": "08:00"
     }
   }
 }
