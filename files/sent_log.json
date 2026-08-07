@@ -1,36 +1,4 @@
 {
-  "2026-08-01": {
-    "0": {
-      "words": [
-        "delicacy",
-        "rampant",
-        "convolutional",
-        "reciprocal",
-        "naive"
-      ],
-      "sent_at": "08:01"
-    },
-    "1": {
-      "words": [
-        "suspension",
-        "empirical",
-        "discriminatory",
-        "majority",
-        "neutral"
-      ],
-      "sent_at": "14:54"
-    },
-    "2": {
-      "words": [
-        "apparently",
-        "rampant",
-        "parity",
-        "nuance",
-        "possessive"
-      ],
-      "sent_at": "20:12"
-    }
-  },
   "2026-08-02": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "practically"
       ],
       "sent_at": "19:47"
+    }
+  },
+  "2026-08-08": {
+    "0": {
+      "words": [
+        "rampant",
+        "adhere",
+        "resistance",
+        "reliant",
+        "concur"
+      ],
+      "sent_at": "07:36"
     }
   }
 }
