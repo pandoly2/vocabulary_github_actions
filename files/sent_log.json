@@ -1,36 +1,4 @@
 {
-  "2026-07-31": {
-    "0": {
-      "words": [
-        "encounter",
-        "suspension",
-        "frolic",
-        "percolate",
-        "astronomy"
-      ],
-      "sent_at": "08:08"
-    },
-    "1": {
-      "words": [
-        "rampant",
-        "suspension",
-        "fatigue",
-        "temptation",
-        "awkward"
-      ],
-      "sent_at": "15:12"
-    },
-    "2": {
-      "words": [
-        "apparently",
-        "empirical",
-        "redundancy",
-        "disruption",
-        "correspond"
-      ],
-      "sent_at": "20:54"
-    }
-  },
   "2026-08-01": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "commemorate"
       ],
       "sent_at": "20:59"
+    }
+  },
+  "2026-08-07": {
+    "0": {
+      "words": [
+        "suspension",
+        "rampant",
+        "council",
+        "polish",
+        "coincide"
+      ],
+      "sent_at": "10:29"
     }
   }
 }
