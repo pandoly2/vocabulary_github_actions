@@ -1,36 +1,4 @@
 {
-  "2026-08-02": {
-    "0": {
-      "words": [
-        "empirical",
-        "rampant",
-        "persecute",
-        "prescribe",
-        "compassion"
-      ],
-      "sent_at": "07:56"
-    },
-    "1": {
-      "words": [
-        "empirical",
-        "adhere",
-        "morale",
-        "assume",
-        "liberate"
-      ],
-      "sent_at": "14:57"
-    },
-    "2": {
-      "words": [
-        "apparently",
-        "delicacy",
-        "perceive",
-        "incur",
-        "disturbing"
-      ],
-      "sent_at": "20:12"
-    }
-  },
   "2026-08-03": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "vacant"
       ],
       "sent_at": "19:25"
+    }
+  },
+  "2026-08-09": {
+    "0": {
+      "words": [
+        "encounter",
+        "rampant",
+        "wise",
+        "submerge",
+        "definite"
+      ],
+      "sent_at": "07:30"
     }
   }
 }
