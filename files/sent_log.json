@@ -1,36 +1,4 @@
 {
-  "2026-08-04": {
-    "0": {
-      "words": [
-        "suspension",
-        "apparently",
-        "cinephile",
-        "agriculture",
-        "pledge"
-      ],
-      "sent_at": "08:01"
-    },
-    "1": {
-      "words": [
-        "apparently",
-        "empirical",
-        "apprehensive",
-        "anxious",
-        "fiesta"
-      ],
-      "sent_at": "14:45"
-    },
-    "2": {
-      "words": [
-        "empirical",
-        "delicacy",
-        "cease",
-        "proficient",
-        "interrogate"
-      ],
-      "sent_at": "20:59"
-    }
-  },
   "2026-08-05": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "nourish"
       ],
       "sent_at": "20:03"
+    }
+  },
+  "2026-08-11": {
+    "0": {
+      "words": [
+        "apparently",
+        "suspension",
+        "expose",
+        "voyage",
+        "migraine"
+      ],
+      "sent_at": "07:38"
     }
   }
 }
