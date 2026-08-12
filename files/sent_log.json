@@ -1,36 +1,4 @@
 {
-  "2026-08-06": {
-    "0": {
-      "words": [
-        "apparently",
-        "rampant",
-        "excrete",
-        "ingest",
-        "thermometer"
-      ],
-      "sent_at": "08:00"
-    },
-    "1": {
-      "words": [
-        "encounter",
-        "delicacy",
-        "fart",
-        "occupy",
-        "debt"
-      ],
-      "sent_at": "14:47"
-    },
-    "2": {
-      "words": [
-        "delicacy",
-        "apparently",
-        "exhibition",
-        "furnish",
-        "commemorate"
-      ],
-      "sent_at": "20:59"
-    }
-  },
   "2026-08-07": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "tactless"
       ],
       "sent_at": "19:56"
+    }
+  },
+  "2026-08-13": {
+    "0": {
+      "words": [
+        "adhere",
+        "encounter",
+        "accustom",
+        "mayor",
+        "measles"
+      ],
+      "sent_at": "07:41"
     }
   }
 }
