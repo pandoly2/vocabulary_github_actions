@@ -1,36 +1,4 @@
 {
-  "2026-08-07": {
-    "0": {
-      "words": [
-        "suspension",
-        "rampant",
-        "council",
-        "polish",
-        "coincide"
-      ],
-      "sent_at": "10:29"
-    },
-    "1": {
-      "words": [
-        "adhere",
-        "suspension",
-        "smelt",
-        "prospector",
-        "tremendous"
-      ],
-      "sent_at": "13:53"
-    },
-    "2": {
-      "words": [
-        "apparently",
-        "empirical",
-        "machinery",
-        "presume",
-        "practically"
-      ],
-      "sent_at": "19:47"
-    }
-  },
   "2026-08-08": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "accomplishment"
       ],
       "sent_at": "19:57"
+    }
+  },
+  "2026-08-14": {
+    "0": {
+      "words": [
+        "apparently",
+        "suspension",
+        "contrast",
+        "complainant",
+        "plaintiff"
+      ],
+      "sent_at": "07:42"
     }
   }
 }
