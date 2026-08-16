@@ -201,6 +201,16 @@
         "symptom"
       ],
       "sent_at": "07:22"
+    },
+    "1": {
+      "words": [
+        "encounter",
+        "rampant",
+        "sprain",
+        "pretend",
+        "conservative"
+      ],
+      "sent_at": "12:46"
     }
   }
 }
