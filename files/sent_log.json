@@ -1,36 +1,4 @@
 {
-  "2026-08-10": {
-    "0": {
-      "words": [
-        "adhere",
-        "empirical",
-        "overcome",
-        "notion",
-        "conscious"
-      ],
-      "sent_at": "07:32"
-    },
-    "1": {
-      "words": [
-        "suspension",
-        "rampant",
-        "loom",
-        "legume",
-        "attentive"
-      ],
-      "sent_at": "13:36"
-    },
-    "2": {
-      "words": [
-        "adhere",
-        "encounter",
-        "strenuous",
-        "obligation",
-        "nourish"
-      ],
-      "sent_at": "20:03"
-    }
-  },
   "2026-08-11": {
     "0": {
       "words": [
@@ -221,6 +189,18 @@
         "betterment"
       ],
       "sent_at": "19:17"
+    }
+  },
+  "2026-08-17": {
+    "0": {
+      "words": [
+        "apparently",
+        "suspension",
+        "applicant",
+        "compliment",
+        "passive"
+      ],
+      "sent_at": "07:21"
     }
   }
 }
